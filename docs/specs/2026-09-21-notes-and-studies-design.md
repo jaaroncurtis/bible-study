@@ -5,7 +5,8 @@
 
 Studies render from one markdown source to both a PDF and an interactive site.
 Scripture appears only as links out to BibleGateway, never as embedded text.
-Journal entries write to the browser first and sync to Firebase when signed in.
+Journal entries write to the browser and stay there; cloud sync is a later addition,
+deliberately deferred until a real study has been journaled through.
 
 ---
 
@@ -18,8 +19,9 @@ Journal entries write to the browser first and sync to Firebase when signed in.
 | Scripture in the rendered site | Reference text is linkified to BibleGateway. Hover shows the canonical reference; click opens BibleGateway | No embedded verse text anywhere in published output |
 | ESV source | Keep the existing scraper for private study | No `api.esv.org` integration (it becomes unnecessary once nothing is published) |
 | PDF + HTML | One render, two stylesheets. WeasyPrint turns the same HTML into PDF | No second pipeline, no LaTeX, no Quarto/Pandoc dependency |
-| Journaling | IndexedDB is the write path; Firebase Auth + Firestore sync when signed in | No Google Drive storage, no refresh token in the browser |
-| Hosting | Static site on GitHub Pages, built into `docs/` and committed on `main` | No CI build step, no Firebase Hosting |
+| Journaling, phase 1 | IndexedDB only. No accounts, no network, no cloud | No sync, no cross-device, no auth work up front |
+| Journaling, phase 2 | Firebase Auth + Firestore sync, added later | No Google Drive storage, no refresh token in the browser |
+| Hosting | Static site on GitHub Pages (public repo), built into `docs/` and committed on `main` | No CI build step, no Firebase Hosting |
 
 ### Why these are not obvious
 
@@ -49,7 +51,7 @@ site/
   static/
     screen.css              interactive site
     print.css               PDF
-    journal.js              IndexedDB write path + Firebase sync
+    journal.js              IndexedDB write path (Firebase sync layers on later)
     refs.js                 reference link behaviour
 
 docs/                       BUILD OUTPUT. GitHub Pages serves this. Committed on main.
@@ -228,18 +230,48 @@ If a portable, user-owned copy becomes wanted, add that button with `drive.file`
 (which limits the app to files it created). It is additive and does not disturb
 anything below.
 
-### The design
+### The design, in two phases
 
-1. **IndexedDB is the write path.** Every keystroke is saved locally. No login required,
-   works offline, instant.
+**Phase 1 — local only. This is what gets built first.**
+
+IndexedDB is the write path. Every keystroke is saved locally. No login, no network,
+no Firebase project, no accounts. Add an export-to-file button so nothing is trapped.
+
+This is a complete, usable journal. Build it, use it through a real study, and let
+what you actually miss decide what phase 2 needs.
+
+**Phase 2 — Firebase sync, added later.**
+
+1. **IndexedDB stays the write path.** Sync is layered on; it never becomes the thing
+   the UI waits for.
 2. **Firebase Auth + Firestore sync when signed in.** One Firebase project across all
    studies; one origin means one grant covers every study page.
 3. **Firestore security rules scope each journal to `request.auth.uid`.** Journal entries
    are personal spiritual reflection — they are private by rule, not by convention.
-4. **Journals are never committed to the repository.**
 
 Sign-in is an enhancement, never a gate. If you never sign in, journaling still works —
 it is simply confined to that browser.
+
+**Journals are never committed to the repository.** The repository is public.
+
+### GitHub Pages and Firebase Auth: what phase 2 will need
+
+The two work together, with three specifics that are easy to get wrong.
+
+- **Use `signInWithPopup`, not `signInWithRedirect`.** Redirect sign-in relies on a
+  cross-origin iframe to a Firebase Hosting domain, which browsers now block:
+  "Starting June 24 2024, implementing one of the options will be required for redirect
+  sign-in to work on Google Chrome M115+. This is already required on Firefox 109+ and
+  Safari 16.1+." Of the documented mitigations, reverse-proxying the auth handler is
+  impossible on static Pages hosting, leaving popup sign-in or self-hosting the sign-in
+  helper. Popups are occasionally blocked and are clumsier on mobile — which costs sync,
+  never writing, because of the local-first design.
+- **Add `jaaroncurtis.github.io` to Firebase's Authorized domains.** Sign-in fails
+  without it.
+- **The Firebase config in the repo is not a secret.** `apiKey` and friends identify the
+  project; they are meant to ship in client code. Security comes from Firestore rules and
+  the authorized-domain list, not from hiding the config. Do not build a scheme to
+  obscure it.
 
 **Hosting and backend are independent.** The site stays on GitHub Pages; Firebase is
 used only as a JS-SDK backend. There is no reason to move hosting.
@@ -252,6 +284,8 @@ used only as a JS-SDK backend. There is no reason to move hosting.
   <https://firebase.google.com/docs/auth/web/google-signin>
 - Firebase discarding the Google OAuth refresh token (open feature request):
   <https://github.com/firebase/firebase-js-sdk/issues/2532>
+- `signInWithRedirect` and third-party storage restrictions:
+  <https://firebase.google.com/docs/auth/web/redirect-best-practices>
 
 ---
 
@@ -268,19 +302,19 @@ Suggested order, each step independently useful:
 3. Jinja templates and `screen.css`; a study renders to a readable page with working
    BibleGateway links.
 4. `print.css` and WeasyPrint; the same study renders to PDF.
-5. Journaling against IndexedDB only.
-6. Firebase Auth + Firestore sync.
-7. Publish `docs/` and enable Pages.
+5. Journaling against IndexedDB only, with export to file.
+6. Publish `docs/` and enable Pages.
 
-Steps 1–4 deliver a usable study. Steps 5–6 are separable and should wait until a real
-study exists to write in.
+Steps 1–5 deliver a usable, publishable study with a working journal.
+
+Firebase Auth + Firestore sync is a later addition, deliberately not numbered here. It
+waits until a real study has been journaled through and the gap is felt rather than
+assumed.
 
 ---
 
 ## 7. Open questions
 
-- **Is the GitHub repository public?** Pages on a private repository requires GitHub Pro.
-  Nothing in this design depends on the answer, but it gates step 7.
 - **What does `study.toml` actually contain?** Deferred deliberately. It will be written
   against the first real study rather than guessed at now.
 - **Does the PDF need its own cover and table of contents?** Unknown until a study is

@@ -65,8 +65,8 @@ Setup from a fresh clone: `python -m venv .venv` then
   chapter costs ~15s. Say so before a multi-chapter pull.
 - **Read cached JSON directly** when studying. Do not shell out to `bg` for a
   chapter already on disk.
-- **Journals are never committed.** They are personal, and they live in the
-  browser plus Firestore.
+- **Journals are never committed.** This repository is public. Journals live in
+  the browser (IndexedDB), and later in Firestore.
 - **Source files stay ASCII.** Windows tooling here has mangled UTF-8 source
   before; put non-ASCII in data, not in code.
 
