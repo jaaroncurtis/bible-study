@@ -1,0 +1,17 @@
+# Scripture cache — gitignored on purpose.
+# Most translations (ESV, NIV, NASB…) are copyrighted; caching them locally for
+# personal study is fine, committing them to a repo is redistribution.
+cache/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
