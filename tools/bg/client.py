@@ -6,10 +6,13 @@ file serves every later reference into it.
 """
 
 from bg.cache import to_document
-from bg.fetch import passage_url
+from bg.fetch import PLANS_URL, VERSIONS_URL, passage_url, search_url
 from bg.parse import parse_chapter
 from bg.passage import assemble
+from bg.plans import parse_plans
 from bg.refs import parse_reference
+from bg.search import parse_search
+from bg.versions import parse_versions
 
 DEFAULT_VERSION = "ESV"
 
@@ -48,3 +51,41 @@ class BibleGateway:
             for number in reference.chapters()
         ]
         return assemble(reference, documents)
+
+    def _catalogue(self, url, parse, key, refresh):
+        """Fetch a site-wide listing, or return the cached copy.
+
+        These change rarely, so they are cached without expiry and refreshed
+        only on request.
+        """
+        if not refresh:
+            cached = self.cache.load_json("catalog", key)
+            if cached is not None:
+                return cached["items"]
+
+        items = parse(self.fetcher.get(url))
+        self.cache.save_json({"source_url": url, "items": items}, "catalog", key)
+        return items
+
+    def versions(self, refresh=False):
+        """Every translation BibleGateway publishes, with audio availability."""
+        return self._catalogue(VERSIONS_URL, parse_versions, "versions", refresh)
+
+    def reading_plans(self, refresh=False):
+        return self._catalogue(PLANS_URL, parse_plans, "reading-plans", refresh)
+
+    def search(self, query, version=None, start=None, refresh=False):
+        """One page of keyword search results, 25 hits at a time."""
+        version = version or self.default_version
+        key = f"{query} {start or 1}"
+
+        if not refresh:
+            cached = self.cache.load_json("search", version, key)
+            if cached is not None:
+                return cached
+
+        url = search_url(query, version, start=start)
+        found = parse_search(self.fetcher.get(url), query=query, version=version)
+        found["source_url"] = url
+        self.cache.save_json(found, "search", version, key)
+        return found

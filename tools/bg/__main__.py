@@ -16,6 +16,7 @@ from bg.fetch import FetchError, Fetcher, Pacer
 from bg.parse import PassageNotFoundError
 from bg.passage import PassageRangeError
 from bg.refs import ReferenceError, resolve_book
+from bg.versions import filter_versions
 
 REPORTED_ERRORS = (ReferenceError, PassageRangeError, PassageNotFoundError, FetchError)
 
@@ -59,6 +60,27 @@ def build_parser():
     chapter.add_argument("--version", default=None)
     chapter.add_argument("--refresh", action="store_true")
 
+    versions = commands.add_parser("versions", help="list translations")
+    versions.add_argument(
+        "--filter", dest="text", default=None, help="match against name or code"
+    )
+    versions.add_argument("--language", default=None, help="language code, e.g. en")
+    versions.add_argument(
+        "--audio", action="store_true", help="only translations with a recording"
+    )
+    versions.add_argument("--refresh", action="store_true")
+
+    search = commands.add_parser("search", help="keyword search across a translation")
+    search.add_argument("query")
+    search.add_argument("--version", default=None)
+    search.add_argument(
+        "--start", type=int, default=None, help="1-based offset of a later page"
+    )
+    search.add_argument("--refresh", action="store_true")
+
+    plans = commands.add_parser("reading-plans", help="list reading plans")
+    plans.add_argument("--refresh", action="store_true")
+
     commands.add_parser("cache-status", help="summarise what is cached")
 
     return parser
@@ -78,6 +100,22 @@ def main(argv=None, gateway=None):
             payload = gateway.chapter(
                 book, args.chapter, version=args.version, refresh=args.refresh
             )
+        elif args.command == "versions":
+            payload = filter_versions(
+                gateway.versions(refresh=args.refresh),
+                text=args.text,
+                language=args.language,
+                audio_only=args.audio,
+            )
+        elif args.command == "search":
+            payload = gateway.search(
+                args.query,
+                version=args.version,
+                start=args.start,
+                refresh=args.refresh,
+            )
+        elif args.command == "reading-plans":
+            payload = gateway.reading_plans(refresh=args.refresh)
         else:
             payload = gateway.cache.status()
     except REPORTED_ERRORS as error:

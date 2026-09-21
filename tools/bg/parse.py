@@ -13,6 +13,8 @@ from dataclasses import dataclass, field
 
 from bs4 import BeautifulSoup
 
+from bg.text import clean as _clean
+
 
 class PassageNotFoundError(ValueError):
     """The page carries no passage -- a bad reference, or a search-results page."""
@@ -61,10 +63,6 @@ _VERSE_CLASS = re.compile(r"^(?P<book>.+)-(?P<chapter>\d+)-(?P<verse>\d+)$")
 
 _HEADING_TAGS = ["h1", "h2", "h3", "h4", "h5"]
 _NON_TEXT = ["sup.versenum", "span.chapternum", "sup.footnote", "sup.crossreference"]
-
-
-def _clean(text):
-    return re.sub(r"\s+", " ", text.replace("\xa0", " ")).strip()
 
 
 def _verse_address(element):

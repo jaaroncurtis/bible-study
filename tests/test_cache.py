@@ -26,7 +26,10 @@ def document(romans8):
 
 
 def test_a_chapter_is_stored_under_version_book_and_padded_chapter(cache, tmp_path):
-    assert cache.path_for("ESV", "Romans", 8) == tmp_path / "ESV" / "Romans" / "008.json"
+    assert (
+        cache.path_for("ESV", "Romans", 8)
+        == tmp_path / "bible" / "ESV" / "Romans" / "008.json"
+    )
 
 
 def test_chapter_numbers_pad_so_they_sort_in_reading_order(cache):
@@ -84,3 +87,34 @@ def test_cache_status_counts_what_is_stored(cache, document):
 
     assert status["chapters"] == 1
     assert status["versions"] == ["ESV"]
+
+
+def test_other_cached_documents_live_outside_the_scripture_tree(cache, tmp_path):
+    cache.save_json({"versions": []}, "catalog", "versions")
+
+    assert (tmp_path / "catalog" / "versions.json").exists()
+
+
+def test_a_saved_json_document_round_trips(cache):
+    cache.save_json({"hello": "world"}, "catalog", "versions")
+
+    assert cache.load_json("catalog", "versions") == {"hello": "world"}
+
+
+def test_loading_a_json_document_that_was_never_saved_returns_none(cache):
+    assert cache.load_json("catalog", "versions") is None
+
+
+def test_cached_searches_do_not_inflate_the_chapter_count(cache, document):
+    cache.save(document)
+    cache.save_json({"results": []}, "search", "KJV", "faith")
+
+    assert cache.status()["chapters"] == 1
+
+
+def test_a_query_is_slugged_so_it_is_safe_as_a_filename(cache, tmp_path):
+    cache.save_json({}, "search", "KJV", 'Love thy "neighbour"/self')
+
+    saved = list((tmp_path / "search" / "KJV").glob("*.json"))
+    assert len(saved) == 1
+    assert saved[0].name == "love-thy-neighbour-self.json"

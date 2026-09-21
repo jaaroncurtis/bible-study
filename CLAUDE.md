@@ -6,8 +6,9 @@ Polished Bible study notes, and the tooling that feeds them.
 
 Notes are built in three passes. Only pass 1 exists today.
 
-1. **Pull and cache** - scripture comes out of BibleGateway as structured JSON,
-   one file per chapter. This is `tools/bg`, driven by the `bible-gateway` skill.
+1. **Pull and cache** - scripture, keyword search, the translation catalogue
+   and reading plans come out of BibleGateway as structured JSON, one file per
+   chapter. This is `tools/bg`, driven by the `bible-gateway` skill.
 2. **Consolidate** - study content is assembled into a single JSON document that
    references cached verses. Not built yet.
 3. **Render** - the notes document is produced from that JSON. Not built yet.
@@ -21,7 +22,7 @@ decides how a note *reads* belongs in pass 3.
 |---|---|
 | `notes/` | The study notes themselves |
 | `tools/bg/` | BibleGateway fetch/parse/cache CLI |
-| `cache/` | Chapter JSON, `cache/<VERSION>/<Book>/<NNN>.json`. **Gitignored** |
+| `cache/` | `bible/<VERSION>/<Book>/<NNN>.json`, plus `catalog/` and `search/`. **Gitignored** |
 | `tests/` | Offline tests plus one live check behind `-m live` |
 | `.claude/skills/` | Repo-local skills |
 

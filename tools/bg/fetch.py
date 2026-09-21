@@ -13,6 +13,9 @@ from urllib.parse import urlencode
 BASE_URL = "https://www.biblegateway.com"
 PASSAGE_URL = f"{BASE_URL}/passage/"
 SEARCH_URL = f"{BASE_URL}/quicksearch/"
+VERSIONS_URL = f"{BASE_URL}/versions/"
+PLANS_URL = f"{BASE_URL}/reading-plans/"
+RESULTS_PER_PAGE = 25
 CRAWL_DELAY_SECONDS = 15.0
 USER_AGENT = "bible-studies/0.1 (personal Bible study tool; one reader, cached locally)"
 
@@ -27,8 +30,13 @@ def passage_url(query, version):
     return f"{PASSAGE_URL}?{urlencode({'search': query, 'version': version})}"
 
 
-def search_url(query, version):
-    return f"{SEARCH_URL}?{urlencode({'quicksearch': query, 'version': version})}"
+def search_url(query, version, start=None):
+    """Search results, 25 to a page; `start` is the 1-based offset of a later page."""
+    params = {"quicksearch": query, "version": version}
+    if start and start > 1:
+        params["startnumber"] = start
+        params["resultspp"] = RESULTS_PER_PAGE
+    return f"{SEARCH_URL}?{urlencode(params)}"
 
 
 class Pacer:
