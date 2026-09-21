@@ -196,11 +196,37 @@ model:
 > press."
 
 Renewal requires a *user gesture*, not silent background refresh. A Drive-backed journal
-on a static host would interrupt writing with a re-authorisation click roughly hourly.
-That is the worst possible place for that friction.
+on a static host would interrupt continuous autosave with a re-authorisation click
+roughly hourly. That is the worst possible place for that friction.
 
-Firebase Auth does exactly what Google OAuth will not: its SDK persists the session and
-refreshes tokens automatically.
+### What Firebase does and does not solve
+
+Firebase is **identity plus a per-user store**. It does not grant durable Drive access.
+
+| Firebase gives | Firebase does not give |
+|---|---|
+| A stable `uid` | A durable Google API token |
+| Its own ID + refresh token, auto-refreshed by the SDK, so the app session persists | Any Google OAuth refresh token — Firebase discards it |
+| Firestore, scoped per user by security rules | Access to Drive, Gmail, Calendar or any other Google API beyond the sign-in moment |
+
+Signing in with `GoogleAuthProvider` and extra scopes does return a Google access token
+as `credential.accessToken`, usable against Drive. But Firebase keeps no Google refresh
+token, so that token expires in about an hour and the only way to mint another is
+`reauthenticateWithPopup` — the same user gesture as raw OAuth.
+
+So Firebase's durable session covers **its own backend only**. Choosing Firebase is
+choosing Firestore as the store; it is not a route to Drive.
+
+### Drive remains available later, in one specific form
+
+The blocker was never Drive itself — it was *continuous* autosave needing hourly
+re-authorisation. Because the journal is local-first, autosave never touches the
+network, so Drive would only need a token at the moment the reader presses a
+"Back up to Drive" button. A button press **is** the gesture Google requires.
+
+If a portable, user-owned copy becomes wanted, add that button with `drive.file` scope
+(which limits the app to files it created). It is additive and does not disturb
+anything below.
 
 ### The design
 
@@ -217,6 +243,15 @@ it is simply confined to that browser.
 
 **Hosting and backend are independent.** The site stays on GitHub Pages; Firebase is
 used only as a JS-SDK backend. There is no reason to move hosting.
+
+### Sources
+
+- Google browser token model, on refresh tokens and gesture-bound renewal:
+  <https://developers.google.com/identity/oauth2/web/guides/use-token-model>
+- Firebase Google sign-in, on the returned `credential.accessToken`:
+  <https://firebase.google.com/docs/auth/web/google-signin>
+- Firebase discarding the Google OAuth refresh token (open feature request):
+  <https://github.com/firebase/firebase-js-sdk/issues/2532>
 
 ---
 
