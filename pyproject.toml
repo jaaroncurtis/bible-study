@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bg"
+version = "0.1.0"
+description = "BibleGateway fetch/parse/cache CLI for the bible-studies notes pipeline"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.15",
+    "lxml>=6.1",
+    "requests>=2.34",
+]
+
+[tool.setuptools]
+package-dir = { "" = "tools" }
+packages = ["bg"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q --strict-markers"
+markers = [
+    "live: hits biblegateway.com over the network; excluded from the default run",
+]
