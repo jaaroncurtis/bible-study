@@ -1,27 +1,33 @@
 # bible-studies
 
-Polished Bible study notes, and the tooling that feeds them.
+Bible studies, the notes they draw on, and the tooling that feeds both.
 
-## The pipeline
+## Notes and studies are different things
 
-Notes are built in three passes. Only pass 1 exists today.
+- **`notes/`** is a thinking library: plain markdown on theology, read by a human
+  and drawn on when designing a study. Nothing reads it mechanically.
+- **`studies/<study-name>/`** is one study, rendered to a PDF and to an
+  interactive page on GitHub Pages.
 
-1. **Pull and cache** - scripture, keyword search, the translation catalogue
-   and reading plans come out of BibleGateway as structured JSON, one file per
-   chapter. This is `tools/bg`, driven by the `bible-gateway` skill.
-2. **Consolidate** - study content is assembled into a single JSON document that
-   references cached verses. Not built yet.
-3. **Render** - the notes document is produced from that JSON. Not built yet.
+There is deliberately **no coupling between them**. A study does not reference or
+transclude a note; study prose is written by hand. Do not add a note-id
+reference system without a reason that has actually come up.
 
-Keep the passes separate. Pass 1 returns data, never prose: anything that
-decides how a note *reads* belongs in pass 3.
+A study is an ordered list of sections. A "section" is whatever that study needs -
+a chapter of the Westminster Confession, a passage of Romans, a topic. There is
+no fixed schema, on purpose.
 
-## Layout
+## Where things are
 
 | Path | What |
 |---|---|
-| `notes/` | The study notes themselves |
+| `notes/` | Thinking library, plain markdown. Not consumed by any tool |
+| `studies/<name>/` | One study: `study.toml`, `sections/*.md`, `assets/` |
+| `site/` | Authored templates, CSS and JS shared by every study |
+| `docs/` | **Build output.** GitHub Pages serves it. Never hand-edit |
+| `docs/specs/` | Design specs |
 | `tools/bg/` | BibleGateway fetch/parse/cache CLI |
+| `tools/study/` | The study renderer. Not built yet |
 | `cache/` | `bible/<VERSION>/<Book>/<NNN>.json`, plus `catalog/` and `search/`. **Gitignored** |
 | `tests/` | Offline tests plus one live check behind `-m live` |
 | `.claude/skills/` | Repo-local skills |
@@ -41,15 +47,28 @@ Setup from a fresh clone: `python -m venv .venv` then
 
 ## Rules that are easy to get wrong
 
+- **Specs and plans are markdown files in this repo**, under `docs/specs/`. Do not
+  publish them as hosted artifacts. This overrides the global preference for
+  artifacts.
 - **Never commit scripture text.** The cache is gitignored because most
   translations are copyrighted. Test fixtures stay minimal for the same reason -
   the ESV fixture is a three-verse excerpt, not a chapter.
+- **The published site embeds no scripture.** References link out to BibleGateway
+  instead. Crossway requires written permission for commentary and biblical
+  reference works even under its 500-verse limit, and a study with exposition is
+  plausibly commentary. See `docs/specs/2026-09-21-notes-and-studies-design.md`
+  before proposing embedded verse text.
+- **Never license this repo under Creative Commons.** Crossway's terms prohibit
+  quoting ESV text in any CC-licensed publication.
 - **Scraping is paced.** BibleGateway asks for a 15 second crawl delay and the
   fetcher enforces it across processes. Cache hits are free; every uncached
   chapter costs ~15s. Say so before a multi-chapter pull.
-- **Read cached JSON directly** when building notes. Do not shell out to `bg`
-  for a chapter already on disk.
+- **Read cached JSON directly** when studying. Do not shell out to `bg` for a
+  chapter already on disk.
+- **Journals are never committed.** They are personal, and they live in the
+  browser plus Firestore.
 - **Source files stay ASCII.** Windows tooling here has mangled UTF-8 source
   before; put non-ASCII in data, not in code.
 
-For how to actually drive the CLI, see the `bible-gateway` skill.
+For how to drive the BibleGateway CLI, see the `bible-gateway` skill.
+Current design: `docs/specs/2026-09-21-notes-and-studies-design.md`.
