@@ -19,6 +19,31 @@ As each lesson is fleshed out it gains a **Cross-references** block listing the
 passages it pulls in and what each is there to do. Those blocks appear below only
 where the reading is already decided; the rest are filled in as we work.
 
+## Reading "Jew and Gentile" in chapters 2-4
+
+In the indictment, Paul's two groups are not two ethnicities to a modern reader —
+they are two postures, and the letter only lands if we name them as such.
+
+- The **Jew** of chapters 2-4 is the one who holds the standard: religious, taught,
+  morally serious, in possession of God's law and broadly aligned to it, and
+  confident of his standing because of it.
+- The **Gentile** is the outsider: worldly, immoral, without the standard and not
+  pretending to have it.
+
+Put plainly for today: **the unregenerate visible church versus the world.** That is
+the pairing an American Christian needs, because it reproduces the experience a
+first-century Roman reader actually had. Paul spends chapter 1 cataloguing the
+world's corruption while the religious reader nods along — and then 2:1 turns the
+indictment on the one nodding. A congregation that reads chapter 1 as being about the
+culture and chapter 2 as being about them has read Romans correctly.
+
+**This reading stops at the end of chapter 4.** When chapters 9-11 arrive, *Israel*
+means national, ethnic Israel and God's covenant faithfulness to that people. Do not
+carry the chapter-2 cipher into it. If "Israel" there is read as shorthand for
+hypocritical religious people, Paul's actual question — whether God has abandoned a
+people He bound Himself to — becomes unaskable, and 11:1 stops making sense. The
+guardrail is restated where Part Four begins.
+
 ## The through-lines
 
 Five commitments run the length of the study. They are stated here once so each
@@ -172,36 +197,53 @@ For the seizure itself:
 
 **Romans 2:1-16**
 
-**Aim.** Close the escape hatch the previous lesson opens, where the moral person
+**Aim.** Close the escape hatch the previous lesson opens, where the religious person
 reads chapter 1 as being about somebody else.
 
 **Content**
 
-- The turn: the one passing judgment condemns himself, because he does the same
-  things.
-- God's kindness is meant to lead to repentance, not to be read as indifference.
-- Judgment according to works, without partiality — Jew and Greek alike.
-- The Gentile who does by nature what the law requires: conscience as evidence that
-  the ought-ness is written in, not invented.
+- **Spring the trap deliberately.** Chapter 1 was a catalogue of the world's
+  corruption, and the room has been agreeing with it for two lessons. 2:1 is aimed at
+  the agreeing. Teach it that way: let people notice they were nodding.
+- The turn — the one passing judgment condemns himself, because he does the same
+  things. Not similar things. The same.
+- God's kindness meant to lead to repentance, not to be read as a verdict already
+  returned in our favour.
+- Judgment according to works, without partiality. The insider's standing buys no
+  leniency; if anything the standard he holds raises the bar.
+- The Gentile who does by nature what the law requires: the outsider sometimes keeps
+  what the insider only teaches. Conscience as evidence that ought-ness is written
+  in, not invented.
 
 **Reflection**
 
 - Which sins do I find it easy to condemn, and what does the ease tell me?
 - Do I read God's patience with me as approval?
+- Where is someone outside the church quietly doing what I only talk about?
 
 ## Lesson 5 — Circumcision of the Heart
 
 **Romans 2:17-29**
 
 **Aim.** Show that possessing the standard is not the same as keeping it, and that
-the marker without the reality is nothing.
+the marker without the reality is nothing. This is the lesson where the chapter-2
+reframing does its hardest work.
 
 **Content**
 
-- Having the law, teaching the law, and breaking the law — the boast turned into the
-  charge.
-- God's name blasphemed among the Gentiles because of those who carry it.
-- The outward marker versus the inward reality; the Jew who is one inwardly.
+- **Read Paul's "if you call yourself a Jew" as "if you call yourself a Christian."**
+  Every item in his list transfers intact: relying on the standard, boasting in God,
+  knowing His will, approving what is excellent because you have been instructed. That
+  is a churchgoing, Bible-literate, morally serious person — and Paul is about to
+  charge him.
+- The boast turned into the charge: you who teach another, do you not teach yourself?
+  The teaching role is not evidence of the reality; it can be a substitute for it.
+- God's name blasphemed among the outsiders **because of** those who carry it. The
+  world's contempt for the church is, at least sometimes, earned and diagnostic.
+- The marker versus the reality. For Paul, circumcision; for us, the visible
+  equivalents — baptism, membership, attendance, the right positions, fluency in the
+  vocabulary. All of them real, none of them the thing itself.
+- The one who is one *inwardly*, by the Spirit rather than the letter.
 - Praise from God rather than from man.
 
 **Reflection**
@@ -209,6 +251,7 @@ the marker without the reality is nothing.
 - Where am I trading on the marker — the label, the role, the reputation — instead of
   the reality?
 - Whose praise am I actually working for?
+- If an outsider judged Christ by watching me, what would they conclude?
 
 ## Lesson 6 — Does Our Failure Undo God?
 
@@ -219,8 +262,11 @@ chapter 9.
 
 **Content**
 
-- What advantage, then? Paul's answer: much, in every way — the oracles were entrusted
-  to them.
+- What advantage, then? Having levelled the insider with the outsider, Paul refuses
+  the conclusion that the standard was therefore worthless. Much advantage, in every
+  way — the oracles were entrusted to them.
+- Worth naming for us: the visible church really does hold something the world does
+  not. The indictment of Lesson 5 does not cancel that, and Paul will not let it.
 - Human faithlessness does not nullify God's faithfulness.
 - The objection that if our sin displays God's righteousness He is unjust to judge —
   and Paul's refusal to soften it.
@@ -240,8 +286,11 @@ what the law was actually for.
 
 **Content**
 
-- The catena of Old Testament charges: the whole person, itemised.
-- Every mouth stopped, the whole world accountable.
+- Both groups under sin — the religious and the worldly arrive at the same verdict by
+  different roads. Two lessons of levelling reach their conclusion here.
+- The catena of Old Testament charges: the whole person, itemised. Note that Paul
+  indicts the insider **out of the insider's own scriptures**.
+- Every mouth stopped, the whole world accountable. Not "most mouths."
 - Through the law comes knowledge of sin — the law as diagnostic, never as cure.
 - Tie back: if righteousness is ought-ness, the law is the published specification we
   cannot meet.
@@ -250,6 +299,7 @@ what the law was actually for.
 
 - Do I actually believe the verdict applies to me without qualification?
 - What do I reach for when I want to be told I am doing fine?
+- Which road did I take to the same verdict — respectability or open rebellion?
 
 ---
 
@@ -287,13 +337,15 @@ wants from it.
 **Content**
 
 - On what principle is boasting excluded? Not works — faith.
-- One God, therefore one way, for circumcised and uncircumcised alike.
+- One God, therefore one way, for insider and outsider alike. The religious person
+  does not get a second, more dignified route in.
 - Do we then overthrow the law? On the contrary, we uphold it.
 
 **Reflection**
 
 - Where does my boasting go when the obvious route is closed?
 - What would it look like to have nothing to contribute and be glad of it?
+- Do I secretly expect my churchmanship to count for something at the end?
 
 ## Lesson 10 — Abraham Credited
 
@@ -308,11 +360,14 @@ the marker.
 - Wages versus gift: the accounting language and why Paul chose it.
 - The blessing of the one against whom God will not count sin.
 - The sequence that settles it: credited *before* circumcision, so the marker follows
-  the reality rather than producing it.
+  the reality rather than producing it. This is Lesson 5's point proved from the
+  patriarch — and it closes the chapter-2 reframing, because Abraham was reckoned
+  righteous while still, by the later marker, an outsider.
 
 **Reflection**
 
 - Am I working for wages or receiving a gift? How would I tell from the inside?
+- Which of my markers am I treating as though it produced the reality?
 
 ## Lesson 11 — The Faith That Receives
 
@@ -577,6 +632,21 @@ Israel.
 # Part Four: The Faithfulness of God
 
 *Romans 9:1-11:36 — has the gospel left God's word to Israel in ruins?*
+
+> **Drop the chapter-2 reading here.** Through chapters 2-4 we read Paul's "Jew" as
+> the religious insider and applied it to the unregenerate visible church. That was
+> the right move there and it is the wrong move now.
+>
+> In these three chapters *Israel* means national, ethnic Israel — a people God bound
+> Himself to by covenant, whose unbelief is the problem Paul is actually wrestling
+> with. Read it as a cipher for hypocritical churchgoers and the argument collapses:
+> Paul's grief in 9:1-3 becomes theatrical, "has God rejected His people?" in 11:1
+> stops being a real question, the olive tree has no natural branches to break off,
+> and the irrevocable gifts and calling of 11:29 have no one to be irrevocable to.
+>
+> Say this out loud to the room when Part Four opens. Having spent six lessons
+> training people to hear "Jew" as "us," we have to untrain it deliberately, or they
+> will carry it in and misread the hardest section of the letter.
 
 ## Lesson 23 — The Word Has Not Failed
 
