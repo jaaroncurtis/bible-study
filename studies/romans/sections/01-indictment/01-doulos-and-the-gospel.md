@@ -4,8 +4,8 @@
 
 ## Aim
 
-Put the study's governing words on the table, and notice what those words are
-already doing in your thinking.
+Meet the study's governing words, and notice what those words are already doing
+in your thinking.
 
 Deliberately open-ended. Nothing is being settled here. Sit with the questions
 rather than answering them quickly.

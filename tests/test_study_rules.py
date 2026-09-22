@@ -161,9 +161,10 @@ def test_no_stray_characters(item):
     assert not odd, f"CJK characters: {odd}"
 
 
-def test_the_golden_chain_lesson_does_not_teach_the_lapsarian_debate():
-    path = STUDIES / "romans/sections/03-reign/10-golden-chain.md"
-    text = path.read_text(encoding="utf-8").lower()
+@pytest.mark.parametrize("item", LEARNER, ids=_id)
+def test_learner_files_keep_election_relational(item):
+    # The decretal frame, and the lapsarian debate it feeds, live in teacher notes.
+    text = item[2].read_text(encoding="utf-8").lower()
 
     assert "lapsarian" not in text
     assert "decree" not in text

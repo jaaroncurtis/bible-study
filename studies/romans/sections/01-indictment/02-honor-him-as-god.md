@@ -21,6 +21,10 @@ everything the letter later argues about righteousness rests on it.
   total submission to His definition of ought-ness.
 - To be righteous is to reclaim the post we abandoned: loyal vassal king under the
   King of Kings.
+- Hold that as the definition, not yet as the remedy. Nobody reclaims the post by
+  trying. Chapter 3 will show righteousness *credited* to people who are not what
+  they ought to be, because Christ was. The definition stays the same the whole way
+  through; what changes is who meets it.
 
 ## Cross-references
 

@@ -4,8 +4,7 @@
 
 ## Aim
 
-Let the doctrinal half of the letter land as assurance before the turn to
-Israel.
+Take the first eight chapters as assurance before Paul turns to Israel.
 
 ## Content
 

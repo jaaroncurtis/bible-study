@@ -43,6 +43,13 @@ question down and come back to it", "stop here before going on" are all good.
 What goes is the room: an instruction that only makes sense with other people
 present moves to teacher notes.
 
+**Position on national Israel (author's stance, not study text).** A "leaky
+Reformed" view: the church inherits most of the promises, but God still has a plan
+for national Israel. Romans 11:26 is read as a future turning of ethnic Israel as a
+people, after the fullness of the Gentiles. 11:28-29 is said of the nation, and it
+stands as an *example* of perseverance, never its proof-text (8:29-30 teaches it).
+Write studies consistent with this; do not name or label the view inside a study.
+
 A study is an ordered list of sections. A "section" is whatever that study needs -
 a chapter of the Westminster Confession, a passage of Romans, a topic. There is
 no fixed schema, on purpose.

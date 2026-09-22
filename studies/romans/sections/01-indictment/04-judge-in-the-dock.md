@@ -4,8 +4,8 @@
 
 ## Aim
 
-Close the escape hatch the previous lesson opens, where the religious person
-reads chapter 1 as being about somebody else.
+Find out whether you read chapter 1 as being about somebody else, and watch 2:1
+shut that door.
 
 ## Content
 

@@ -16,18 +16,17 @@ define, applied to persons.
   probably your objection too, and it is the Genesis 3 grasp reappearing as theology:
   the demand to hold God to *our* definition of just.
 - Vessels of mercy prepared for glory, called from Jews and Gentiles both.
-- **Cash out [The Golden Chain](lesson:23) here.** This is where "did God create evil, and why?" comes due,
-  and the answer was laid down at the golden chain: He foreknew — fore-loved — these
-  persons as they actually would be, and decreed their existence anyway. The world is
-  as it is because we are in it and He wanted us.
+- **This is where [The Golden Chain](lesson:23) comes due.** "Did God create evil, and
+  why?" was answered there, and the answer was a person's: He loved us when we were
+  evil, He chose us, and He made the world we live in even though we were evil. The
+  world is as it is because we are in it and He wanted us.
 - **And 9:22-23 is not a second answer — it is the same one.** Paul grounds the
   arrangement in making known **the riches of His glory on vessels of mercy**. His
   love is not an alternative to His glory; it is among the riches being displayed.
   Note the phrase itself: vessels *of mercy*, prepared for *glory*. The mercy is the
   glory.
-- Romans 5:8 is the demonstration stated outright — God shows His love toward us in
-  that while we were still sinners, Christ died. That showing **is** a display of the
-  riches of His glory. Do not hear "love" and "glory" as a warm answer and a severe
+- Romans 5:8 is the demonstration stated outright: the love is shown *while we were
+  still sinners*. That showing **is** a display of the riches of His glory. Do not hear "love" and "glory" as a warm answer and a severe
   one that have to be balanced against each other. There is one answer.
 
 ## Reflection

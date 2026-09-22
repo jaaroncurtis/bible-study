@@ -1,7 +1,6 @@
-# Romans: Study Pacing
+# Romans
 
-Forty-two lessons through the letter. `outline.md` maps what Paul is *arguing*; this
-maps the work, lesson by lesson.
+Forty-two lessons through the letter, in six parts.
 
 **This is a study you do on your own.** Read, think, sit with it, and write down what
 you find. The reflection questions are not comprehension checks — they are where the
@@ -10,8 +9,7 @@ Keep a journal as you go. If you come together with others to talk it over at th
 end, you will have something to bring.
 
 Every lesson carries an **aim** in one sentence, the **content** to work through, and
-**reflection** that turns it on you. The balance shifts as the letter does —
-chapters 1-11 carry more content than reflection, chapters 12-16 invert that.
+**reflection** that turns it on you.
 
 ## Method: Romans is the spine, not the boundary
 
@@ -20,9 +18,8 @@ sequence and the argument; the themes it raises get chased aggressively across t
 canon. A lesson is not finished when Romans has been explained — it is finished when
 the theme has been followed to where scripture develops it most clearly.
 
-As each lesson is fleshed out it gains a **Cross-references** block listing the
-passages it pulls in and what each is there to do. Those blocks appear below only
-where the reading is already decided; the rest are filled in as we work.
+Many lessons carry a **Cross-references** block listing the passages they pull in
+and what each is there to do.
 
 ## Reading "Jew and Gentile" in chapters 2-4
 
@@ -41,6 +38,11 @@ first-century Roman reader actually had. Paul spends chapter 1 cataloguing the
 world's corruption while the religious reader nods along — and then 2:1 turns the
 indictment on the one nodding. If you read chapter 1 as being about the culture and
 chapter 2 as being about yourself, you have read Romans correctly.
+
+Two terms carry this through the study. The **visible church** is everyone inside
+the church's walls: members, attenders, the baptised. The **invisible church** is
+those God has actually saved. The two overlap without being the same, and Part Four
+makes the difference central.
 
 **This reading stops at the end of chapter 4.** When chapters 9-11 arrive, *Israel*
 means national, ethnic Israel and God's covenant faithfulness to that people. Do not

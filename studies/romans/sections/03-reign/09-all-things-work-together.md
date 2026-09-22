@@ -4,8 +4,7 @@
 
 ## Aim
 
-Give one verse a whole lesson, because this is where the study's definition
-of faith is tested against real life.
+Test the study's definition of faith against real life, on a single verse.
 
 ## Content
 
@@ -17,7 +16,9 @@ of faith is tested against real life.
   and where you go. Each drives the other: you submit because you know you are wholly
   dependent, and you depend because the One you have submitted to is the only true
   God. Romans 8:28 demands both halves at once, and it falls apart if either is
-  dropped.
+  dropped. Submission is not a contribution: the empty hand of
+  [The Faith That Receives](lesson:11) is still empty. Submitting is what it looks
+  like to stop holding on to anything else.
 - **The dependence half.** We do not make things work together — the subject of the
   verb is God. Nothing here is a promise that we will engineer good outcomes, or even
   that we will be able to trace how He did.
@@ -65,7 +66,7 @@ of faith is tested against real life.
 - **Matthew 6:31-33** — do not be anxious; your Father knows what you need. Note that
   the needs listed are material, against the over-spiritualising trap.
 - **Philippians 4:19** — He will supply every need according to His riches.
-- **1 Peter 5:7** — casting all your anxieties on Him, because He cares for you.
+- **1 Peter 5:7** — anxiety handed over, on the ground that He cares.
 
 ## Reflection
 

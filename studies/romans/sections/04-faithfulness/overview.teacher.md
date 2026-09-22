@@ -22,8 +22,10 @@ self-directed study.
   defuse it either; he sharpens it and then answers with the potter. A group that
   never feels the objection has not read the chapter.
 - **Someone will universalise 11:29** into a promise about anyone who once professed
-  faith. The lesson on Unsearchable handles it: the branches broken off were in the
-  visible community, and the calling that cannot be revoked is the effectual call.
+  faith. 11:29 is said of the nation: the people who are enemies as regards the
+  gospel are the same people who are beloved for the fathers' sake (11:28). It is
+  not a promise about any individual who once professed. Perseverance for persons
+  rests on 8:29-30.
 - **Someone will collapse Israel into the church.** The cost is concrete, and it is
   worth naming out loud: Paul's grief in 9:1-3 turns theatrical, 11:1 stops being a
   real question, and the olive tree has no natural branches to break off.

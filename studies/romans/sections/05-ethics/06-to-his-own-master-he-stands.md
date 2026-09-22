@@ -9,7 +9,7 @@ Apply ownership to disagreement between believers.
 ## Content
 
 - Welcome the one weak in faith, but not to quarrel over opinions.
-- Who are you to pass judgment on the servant of another? **He stands or falls to his
+- Judging someone else's servant is not my place: **he stands or falls to his
   own master** — the *doulos* thread applied to how we treat each other.
 - Each fully convinced in his own mind.
 - Whether we live or die, we are the Lord's.

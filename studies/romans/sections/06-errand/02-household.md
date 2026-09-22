@@ -4,7 +4,8 @@
 
 ## Aim
 
-Let the names land; doctrine this heavy was addressed to actual people.
+Read the names as the people they were; doctrine this heavy was addressed to
+actual people.
 
 ## Content
 

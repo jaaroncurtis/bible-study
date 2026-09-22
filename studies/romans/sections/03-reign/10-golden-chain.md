@@ -22,13 +22,13 @@ actually were, before there was a world for us to be in.
 
 ### Foreknew means fore-loved
 
-This is the lesson's centre of gravity, and it takes real time.
+This is the centre of the lesson. Take your time with it.
 
 - **The word is relational, not informational.** To foreknow is not to have advance
   information about someone; it is to have set one's regard on them beforehand. The
   object of the verb is *whom*, not *what about them* — Paul says God foreknew
   **persons**, not facts.
-- Establish this from scripture rather than asserting it. Romans 11:2 is the decisive
+- Do not take this on the lesson's word; scripture settles it. Romans 11:2 is the decisive
   in-house witness: God has not rejected His people **whom He foreknew** — plainly
   covenant love, not advance information, in this very letter.
 
@@ -58,8 +58,9 @@ yourself.
 - **Romans 11:2** — His people whom He foreknew. Same letter, unmistakably covenantal.
 - **Amos 3:2** — you only have I known of all the families of the earth. Knowledge as
   election, not as information; God knew about the other families.
-- **Jeremiah 1:5** — before I formed you in the womb I knew you. Knowledge preceding
-  existence, of a person.
+- **Jeremiah 1:5** — known before being formed. Knowledge preceding existence, of a
+  person: we are determinate to Him before we are actual to ourselves, which is how
+  He can love someone who does not yet exist.
 - **Genesis 18:19** — I have known him, that he may command his children after him.
 - **Matthew 7:23** — I never knew you. The negative case, and it settles the sense:
   Christ is not confessing ignorance of facts.
@@ -69,8 +70,8 @@ yourself.
 
 ### For being loved while still evil
 
-- **Romans 5:8** — He demonstrates His love toward us in that while we were still
-  sinners Christ died for us. The timing is the point.
+- **Romans 5:8** — love demonstrated *while we were still sinners*. The timing is
+  the point.
 - **Ephesians 2:4-7** — rich in mercy, because of the great love with which He loved
   us **when we were dead in trespasses**.
 - **Deuteronomy 7:7-8** — not because you were more numerous, but because the LORD

@@ -4,15 +4,14 @@
 
 ## Aim
 
-Handle the objections head-on, because the study will meet them again in
-chapter 9.
+Face the objections head-on, because they come back in chapter 9.
 
 ## Content
 
 - What advantage, then? Having levelled the insider with the outsider, Paul refuses
   the conclusion that the standard was therefore worthless. Much advantage, in every
   way — the oracles were entrusted to them.
-- Worth naming for us: the visible church really does hold something the world does
+- Worth holding on to: the visible church really does hold something the world does
   not. The indictment of [Circumcision of the Heart](lesson:5) does not cancel that, and Paul will not let it.
 - Human faithlessness does not nullify God's faithfulness.
 - The objection that if our sin displays God's righteousness He is unjust to judge —
