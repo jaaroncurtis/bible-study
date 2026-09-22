@@ -633,20 +633,34 @@ Israel.
 
 *Romans 9:1-11:36 — has the gospel left God's word to Israel in ruins?*
 
-> **Drop the chapter-2 reading here.** Through chapters 2-4 we read Paul's "Jew" as
-> the religious insider and applied it to the unregenerate visible church. That was
-> the right move there and it is the wrong move now.
+> **Change the reading here — do not merely drop it.** Through chapters 2-4 we read
+> Paul's "Jew" as the religious insider and applied it to the unregenerate visible
+> church. Part Four needs a different and more careful move.
 >
-> In these three chapters *Israel* means national, ethnic Israel — a people God bound
-> Himself to by covenant, whose unbelief is the problem Paul is actually wrestling
-> with. Read it as a cipher for hypocritical churchgoers and the argument collapses:
+> **Israel still means Israel.** In these three chapters it is national, ethnic
+> Israel — a people God bound Himself to by covenant, whose unbelief is the problem
+> Paul is actually wrestling with. Substitute the referent and the argument collapses:
 > Paul's grief in 9:1-3 becomes theatrical, "has God rejected His people?" in 11:1
 > stops being a real question, the olive tree has no natural branches to break off,
-> and the irrevocable gifts and calling of 11:29 have no one to be irrevocable to.
+> and the irrevocable gifts and calling of 11:29 have nobody to be irrevocable to.
 >
-> Say this out loud to the room when Part Four opens. Having spent six lessons
-> training people to hear "Jew" as "us," we have to untrain it deliberately, or they
-> will carry it in and misread the hardest section of the letter.
+> **And precisely because it is a real people, it is the worked example.** Israel is
+> where God's dealings are visible across centuries, and what they show is a
+> distinction that holds in every age: **the visible covenant community is not
+> identical to the elect within it.** Paul says so outright in 9:6 — not all who are
+> descended from Israel belong to Israel — and the remnant of 11:5 is that same
+> distinction with a headcount. This is the **visible church and the invisible
+> church**, stated in Paul's own terms, demonstrated on a nation.
+>
+> Hold the difference precisely. We are **not** saying Israel is a code word for the
+> church. We are saying that a real, chosen, covenanted people, most of whom did not
+> believe, is history's clearest demonstration of how God has always worked — and
+> that the same distinction runs through any congregation reading this letter. The
+> first reading replaces Israel; this one learns from her.
+>
+> Say the change out loud when Part Four opens. Six lessons have trained the room to
+> hear "Jew" as "us"; without deliberate untraining they will carry the cipher in and
+> misread the hardest section of the letter.
 
 ## Lesson 23 — The Word Has Not Failed
 
@@ -658,14 +672,21 @@ Israel.
 
 - Paul's unceasing anguish; his willingness to be accursed for his kinsmen.
 - The privileges that belonged to Israel, listed without irony.
-- Not all who are descended from Israel belong to Israel — the promise, not the
-  bloodline, defines the line.
-- Isaac and Ishmael, Jacob and Esau: chosen before either had done anything.
+- **9:6 is the hinge of the whole section.** Not all who are descended from Israel
+  belong to Israel. Paul's answer to "has the word failed?" is that it never promised
+  what the objection assumes — the promise, not the bloodline, defines the line.
+- This is the **visible church and the invisible church** in Paul's own words, before
+  the vocabulary existed. A covenant community with real membership, real markers and
+  real privileges, inside which a smaller company actually belongs to God.
+- Isaac and Ishmael, Jacob and Esau: chosen before either had done anything. The line
+  runs by call, not by descent and not by performance.
 
 **Reflection**
 
 - Do I grieve over anyone the way Paul grieves here?
 - What do I assume God owes me on the basis of belonging?
+- If membership in the visible people has never been the same as belonging, what am I
+  resting on?
 
 ## Lesson 24 — The Potter
 
@@ -742,13 +763,19 @@ see how faith arrives.
 - Their voice has gone out to all the earth — they heard.
 - A disobedient and contrary people; God found by those who did not seek Him.
 - Has God rejected His people? By no means — Paul himself is evidence.
-- Elijah and the seven thousand: the remnant chosen by grace.
+- Elijah and the seven thousand: the remnant chosen by grace. Elijah counted one
+  believer in Israel and was wrong by seven thousand — the invisible church is not
+  visible *to us* either, including when we are counting.
+- The remnant is 9:6 with a headcount. Israel is not failing to be Israel; the Israel
+  within Israel is exactly what God said it would be.
 - Grace and works as mutually exclusive principles.
 - Hardening, and eyes that do not see.
 
 **Reflection**
 
 - Where do I mistake a small remnant for a failed promise?
+- Elijah misjudged by seven thousand. What am I concluding from a headcount I cannot
+  actually take?
 
 ## Lesson 28 — Do Not Boast
 
@@ -764,10 +791,17 @@ danger.
 - "Do not be arrogant toward the branches" — you do not support the root.
 - Broken off for unbelief, standing fast through faith. Note the fear Paul commends.
 - If God did not spare the natural branches, neither will He spare you.
+- **Membership in the tree is visible; the warning proves it.** A branch that can be
+  broken off was really in the tree in some sense — that is the visible church, and
+  the warning is addressed to it. Set this alongside Lesson 29: the same chapter that
+  breaks branches off calls God's gifts and calling irrevocable, and only the
+  visible/invisible distinction lets both stand.
 
 **Reflection**
 
 - Where am I arrogant about a position I did not earn and do not sustain?
+- Paul commends fear here. What would appropriate fear look like in me this week, and
+  how is it different from doubt?
 
 ## Lesson 29 — Unsearchable
 
@@ -779,16 +813,40 @@ resolution.
 **Content**
 
 - The partial hardening, until the fullness of the Gentiles comes in.
-- The gifts and calling of God are irrevocable.
+- **The gifts and the calling of God are irrevocable** — the section's load-bearing
+  claim, and the study's clearest statement of **perseverance**. What God's call
+  establishes, God does not revoke. He does not begin a work and abandon it, and the
+  security of the called does not rest on the called.
+- **Hold the apparent contradiction and resolve it, do not dodge it.** Branches were
+  broken off in Lesson 28; here the calling is irrevocable. Both are in the same
+  chapter. They cohere only on the distinction 9:6 established: the branches broken
+  off were in the visible community, while the calling that cannot be revoked is the
+  effectual call of God to His own. Israel is the worked example of exactly this —
+  a covenant people, most of whom did not believe, and a remnant God never lost.
+- Carry Lesson 21 back in deliberately: foreknew, predestined, called, justified,
+  glorified is the same doctrine stated of individuals, with no dropped links. 8:29-30
+  is the stronger proof-text for personal perseverance; 11:29 shows the same
+  faithfulness worked out on a nation over centuries, where it can be watched.
 - God consigning all to disobedience that He may have mercy on all.
 - The doxology: the depth of His riches and wisdom, His unsearchable judgments.
 - "Who has known the mind of the Lord?" — the royal prerogative confessed rather than
   contested. Set this beside Lesson 24 deliberately.
 - From Him and through Him and to Him are all things.
 
+**Cross-references**
+
+- **Romans 8:29-30** — carried back from Lesson 21. The chain applied to persons; the
+  primary ground for perseverance, with 11:29 as its demonstration in history.
+- **Romans 9:6** — the distinction this whole section runs on, restated now that the
+  argument has landed.
+- **Romans 11:5** — the remnant, as the visible/invisible distinction with a number
+  attached.
+
 **Reflection**
 
 - Can I let a doctrine end in worship rather than in a settled position?
+- If the calling is irrevocable, what does that change about how I hold my own
+  standing — and about how I pray for someone who has walked away?
 
 ---
 
