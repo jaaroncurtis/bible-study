@@ -1,6 +1,6 @@
 # Romans: Study Pacing
 
-Forty lessons through the letter, sequenced for teaching rather than for reading.
+Forty-two lessons through the letter, sequenced for teaching rather than for reading.
 `outline.md` maps what Paul is *arguing*; this maps what we *do*, week by week.
 
 Every lesson carries an **aim** in one sentence, the **content** to work through, and
@@ -120,6 +120,12 @@ everything the letter later argues about righteousness rests on it.
   exclusive right to define good and evil.
 - Man created as **vassal king**: real rule, real authority, held under total
   allegiance.
+- **Righteousness as ought-ness.** Righteous is being what we were made to be;
+  unrighteous is deviating from it.
+- Therefore honoring God as God is the *prerequisite* to righteousness, and it means
+  total submission to His definition of ought-ness.
+- To be righteous is to reclaim the post we abandoned: loyal vassal king under the
+  King of Kings.
 
 **Cross-references**
 
@@ -127,12 +133,6 @@ everything the letter later argues about righteousness rests on it.
 - **Genesis 2:15-17** — the one withheld tree; rule granted, prerogative retained.
 - **Genesis 3:1-7** — the seizure, read here for what it claims rather than for its
   consequences, which Lesson 3 takes up.
-- **Righteousness as ought-ness.** Righteous is being what we were made to be;
-  unrighteous is deviating from it.
-- Therefore honoring God as God is the *prerequisite* to righteousness, and it means
-  total submission to His definition of ought-ness.
-- To be righteous is to reclaim the post we abandoned: loyal vassal king under the
-  King of Kings.
 
 **Reflection**
 
@@ -165,7 +165,7 @@ idolatry indictment of Romans 1:21b-23 is built out of theirs.
 - **Reduced providence.** Having rejected God, we are cursed with less of His
   provision, thrown back to some real degree on our own effort to sustain ourselves.
 - *Someone will ask why God made a world this was possible in. Do not answer it yet —
-  say it is the right question and that Lesson 21 is where the letter answers it.*
+  say it is the right question and that Lesson 23 is where the letter answers it.*
 
 **Cross-references**
 
@@ -588,27 +588,122 @@ losing either end of it.
   at once?
 - What fear still operates in me that adoption should have ended?
 
-## Lesson 21 — Groaning and the Chain
+## Lesson 21 — Groaning in Hope
 
-**Romans 8:18-30**
+**Romans 8:18-27**
 
-**Aim.** Set present suffering inside the scope of what God is completing.
+**Aim.** Set present suffering inside the scope of what God is completing, and see
+that the groaning is evidence rather than contradiction.
 
 **Content**
 
 - Present sufferings not worth comparing with the glory to be revealed.
-- Creation subjected to futility, in hope — the curse of Lesson 3 placed on a
-  timeline with an end.
-- Creation groaning, we groaning, the Spirit interceding.
-- All things working together for good, for those called according to purpose.
+- Creation subjected to futility, **in hope** — the curse of Lesson 3 placed on a
+  timeline with an end. The futility is real and it is temporary; Paul concedes the
+  first and insists on the second.
+- Creation groaning, and we groaning with it. The groan is not a failure of faith; it
+  is the ache of people who know what was lost and what is promised.
+- Hope that is seen is not hope. Waiting with patience as the posture of the saved.
+- The Spirit helps us in our weakness, because we do not know what to pray for as we
+  ought — dependence reaching all the way down into our praying.
+
+**Reflection**
+
+- Where do I read futility as permanent when Paul reads it as temporary?
+- What am I currently groaning about, and does Paul's framing change how I hold it?
+- Do I pray as though I already know what I need?
+
+## Lesson 22 — All Things Work Together
+
+**Romans 8:28**
+
+**Aim.** Give one verse a whole lesson, because this is where the study's definition
+of faith is tested against real life.
+
+**Content**
+
+- **This verse is *fiducia* in a single sentence.** The context note defines saving
+  faith's third element as the feedback loop between total dependence on God's
+  provision and joyful submission to His Lordship. Romans 8:28 demands both at once,
+  and it falls apart if either is dropped.
+- **The dependence half.** We do not make things work together — the subject of the
+  verb is God. Nothing here is a promise that we will engineer good outcomes, or even
+  that we will be able to trace how He did.
+- **The submission half.** "For good" is *His* definition of good. To claim the
+  promise while reserving the right to define the good is to take the royal
+  prerogative back in the very moment we most need Him to hold it. This is Lesson 2
+  arriving where it costs something.
+- **Both traps from the context note appear right here.** The prosperity reading keeps
+  dependence and drops submission: it dictates terms to the throne and quietly
+  redefines "good" as the outcome I picked. The over-spiritualising reading keeps
+  submission and drops dependence: it confines God's good to the soul and leaves the
+  material world to my own management. Paul says **all things**, and he says
+  **good** — neither word can be surrendered.
+- **The promise is addressed, not general.** For those who love God, who are called
+  according to His purpose. This is not a proverb about optimism; it is said to a
+  particular people about their particular safety.
+- Note the placement. 8:28 makes a staggering claim, and 8:29-30 immediately supplies
+  the ground for it. The next lesson is why this one is true.
+
+**Cross-references**
+
+For God working evil into good, stated at its hardest:
+
+- **Genesis 50:20** — you meant evil against me, but God meant it for good. The Old
+  Testament's own 8:28, spoken by the victim to the perpetrators.
+- **Job 42:2** — no purpose of Yours can be thwarted.
+
+For submitting to His definition of the good:
+
+- **Isaiah 55:8-9** — My thoughts are not your thoughts. The reason we do not get to
+  supply the definition.
+- **Isaiah 45:9** — woe to him who strives with his Maker. The potter, arriving early;
+  Lesson 26 will meet it again.
+- **Hebrews 12:5-11** — discipline, unpleasant at the time, so that we may share His
+  holiness. The clearest statement anywhere of what God counts as our good, and it is
+  not comfort.
+- **Luke 22:42** — not my will but Yours. Submission at maximum cost, by the only one
+  who could have refused it justly.
+
+For dependence, and against self-reliance:
+
+- **Proverbs 3:5-6** — lean not on your own understanding.
+- **Jeremiah 17:5-7** — cursed is the man who trusts in man and makes flesh his arm;
+  blessed is the man who trusts in the LORD.
+- **Matthew 6:31-33** — do not be anxious; your Father knows what you need. Note that
+  the needs listed are material, against the over-spiritualising trap.
+- **Philippians 4:19** — He will supply every need according to His riches.
+- **1 Peter 5:7** — casting all your anxieties on Him, because He cares for you.
+
+**Reflection**
+
+- Which half do I actually drop — dependence or submission?
+- When I say God works all things for good, whose definition of good am I assuming?
+- Where am I dictating terms to the throne?
+- Is there something in my life I am calling bad that He may be calling good — and
+  what would it cost me to allow that?
+- Hebrews says the good is that I share His holiness. If that is the good being worked
+  toward, does 8:28 comfort me or unsettle me?
+
+## Lesson 23 — The Golden Chain
+
+**Romans 8:29-30**
+
+**Aim.** Teach perseverance, and the study's reading of what it means that God
+foreknew.
+
+**Content**
+
 - **Foreknew, predestined, called, justified, glorified — this is where the study
   teaches perseverance.** The chain has no dropped links: the same company that enters
   at one end arrives at the other, and glorified stands in the past tense as though it
   were already done. Nothing in the chain is contributed by the one being carried
   through it, which is precisely why it holds.
-- Say plainly that this is the ground, and flag that Lesson 29 will bring a second
+- Say plainly that this is the ground, and flag that Lesson 31 will bring a second
   witness from Israel's history. The doctrine is established here, from persons;
   11:29 corroborates it on a nation.
+- This is also the answer to the question Lesson 22 left standing: 8:28 can promise
+  what it promises because of who is holding the chain.
 
 ### "Foreknew" means fore-loved
 
@@ -741,13 +836,12 @@ For election as relational and Trinitarian rather than decretal:
 
 **Reflection**
 
-- Where do I read futility as permanent when Paul reads it as temporary?
-- Does "all things" include the thing I am currently carrying?
 - If no link in the chain is mine to hold, what am I actually afraid of losing?
 - He knew me as I actually am — helpless, in my sin — and made a world so that I
   could exist. What does that do to the version of myself I present to Him?
+- Does an impersonal account of election describe the God I actually pray to?
 
-## Lesson 22 — Nothing Separates
+## Lesson 24 — Nothing Separates
 
 **Romans 8:31-39**
 
@@ -802,7 +896,7 @@ Israel.
 > hear "Jew" as "us"; without deliberate untraining they will carry the cipher in and
 > misread the hardest section of the letter.
 
-## Lesson 23 — The Word Has Not Failed
+## Lesson 25 — The Word Has Not Failed
 
 **Romans 9:1-13**
 
@@ -828,7 +922,7 @@ Israel.
 - If membership in the visible people has never been the same as belonging, what am I
   resting on?
 
-## Lesson 24 — The Potter
+## Lesson 26 — The Potter
 
 **Romans 9:14-29**
 
@@ -844,7 +938,7 @@ define, applied to persons.
   objection in the room, and it is the Genesis 3 grasp reappearing as theology: the
   demand to hold God to *our* definition of just.
 - Vessels of mercy prepared for glory, called from Jews and Gentiles both.
-- **Cash out Lesson 21 here.** This is where "did God create evil, and why?" comes due,
+- **Cash out Lesson 23 here.** This is where "did God create evil, and why?" comes due,
   and the answer was laid down at the golden chain: He foreknew — fore-loved — these
   persons as they actually would be, and decreed their existence anyway. The world is
   as it is because we are in it and He wanted us.
@@ -865,7 +959,7 @@ define, applied to persons.
 - Does knowing He made this world so that *I* could exist change how the potter
   reads?
 
-## Lesson 25 — The Stumbling Stone
+## Lesson 27 — The Stumbling Stone
 
 **Romans 9:30-10:4**
 
@@ -886,7 +980,7 @@ define, applied to persons.
 - Where is my zeal running ahead of my knowledge?
 - What is my most respectable attempt to establish my own righteousness?
 
-## Lesson 26 — Confess and Believe
+## Lesson 28 — Confess and Believe
 
 **Romans 10:5-17**
 
@@ -907,7 +1001,7 @@ see how faith arrives.
 - Do I treat "Lord" as a title or as a claim on my decisions?
 - What am I listening to most, and what faith is it producing?
 
-## Lesson 27 — Did They Not Hear?
+## Lesson 29 — Did They Not Hear?
 
 **Romans 10:18-11:10**
 
@@ -932,7 +1026,7 @@ see how faith arrives.
 - Elijah misjudged by seven thousand. What am I concluding from a headcount I cannot
   actually take?
 
-## Lesson 28 — Do Not Boast
+## Lesson 30 — Do Not Boast
 
 **Romans 11:11-24**
 
@@ -948,7 +1042,7 @@ danger.
 - If God did not spare the natural branches, neither will He spare you.
 - **Membership in the tree is visible; the warning proves it.** A branch that can be
   broken off was really in the tree in some sense — that is the visible church, and
-  the warning is addressed to it. Set this alongside Lesson 29: the same chapter that
+  the warning is addressed to it. Set this alongside Lesson 31: the same chapter that
   breaks branches off calls God's gifts and calling irrevocable, and only the
   visible/invisible distinction lets both stand.
 
@@ -958,7 +1052,7 @@ danger.
 - Paul commends fear here. What would appropriate fear look like in me this week, and
   how is it different from doubt?
 
-## Lesson 29 — Unsearchable
+## Lesson 31 — Unsearchable
 
 **Romans 11:25-36**
 
@@ -971,27 +1065,27 @@ resolution.
 - **The gifts and the calling of God are irrevocable** — the section's load-bearing
   claim. What God's call establishes, God does not revoke.
 - **This is not where perseverance is taught; it is where it is corroborated.** The
-  doctrine was laid down in Lesson 21 from 8:29-30, stated of individuals. Here the
+  doctrine was laid down in Lesson 23 from 8:29-30, stated of individuals. Here the
   same faithfulness shows up worked out on a nation over centuries — a second witness,
   from history, to the character already established. Teach it as supporting evidence,
   not as the proof-text, and the immediate referent stays what it is.
 - **Hold the apparent contradiction and resolve it, do not dodge it.** Branches were
-  broken off in Lesson 28; here the calling is irrevocable. Both are in the same
+  broken off in Lesson 30; here the calling is irrevocable. Both are in the same
   chapter. They cohere only on the distinction 9:6 established: the branches broken
   off were in the visible community, while the calling that cannot be revoked is the
   effectual call of God to His own. Israel is the worked example of exactly this —
   a covenant people, most of whom did not believe, and a remnant God never lost.
-- Carry Lesson 21 back in deliberately so the room sees which passage is carrying the
+- Carry Lesson 23 back in deliberately so the room sees which passage is carrying the
   doctrine and which is illustrating it.
 - God consigning all to disobedience that He may have mercy on all.
 - The doxology: the depth of His riches and wisdom, His unsearchable judgments.
 - "Who has known the mind of the Lord?" — the royal prerogative confessed rather than
-  contested. Set this beside Lesson 24 deliberately.
+  contested. Set this beside Lesson 26 deliberately.
 - From Him and through Him and to Him are all things.
 
 **Cross-references**
 
-- **Romans 8:29-30** — carried back from Lesson 21. The chain applied to persons; the
+- **Romans 8:29-30** — carried back from Lesson 23. The chain applied to persons; the
   primary ground for perseverance, with 11:29 as its demonstration in history.
 - **Romans 9:6** — the distinction this whole section runs on, restated now that the
   argument has landed.
@@ -1010,7 +1104,7 @@ resolution.
 
 *Romans 12:1-15:13 — submission made visible.*
 
-## Lesson 30 — The Living Sacrifice
+## Lesson 32 — The Living Sacrifice
 
 **Romans 12:1-2**
 
@@ -1034,7 +1128,7 @@ offered.
 - Where do I still want to discern God's will as an advisor rather than receive it as
   a subject?
 
-## Lesson 31 — Sober Judgment
+## Lesson 33 — Sober Judgment
 
 **Romans 12:3-8**
 
@@ -1051,7 +1145,7 @@ offered.
 
 - Do I know my actual measure, or an inflated and a deflated version I switch between?
 
-## Lesson 32 — Love Without Pretence
+## Lesson 34 — Love Without Pretence
 
 **Romans 12:9-21**
 
@@ -1073,7 +1167,7 @@ offered.
 - Where am I still sitting on a bench that is not mine?
 - Who am I currently judging in place of God?
 
-## Lesson 33 — Governing Authorities
+## Lesson 35 — Governing Authorities
 
 **Romans 13:1-7**
 
@@ -1096,7 +1190,7 @@ vassal framework.
 - Where do I use the failings of an authority as a reason to keep the prerogative
   myself?
 
-## Lesson 34 — Love Fulfils the Law
+## Lesson 36 — Love Fulfils the Law
 
 **Romans 13:8-14**
 
@@ -1116,7 +1210,7 @@ running.
 
 - What provision am I currently making for something I claim to have renounced?
 
-## Lesson 35 — To His Own Master He Stands
+## Lesson 37 — To His Own Master He Stands
 
 **Romans 14:1-12**
 
@@ -1136,7 +1230,7 @@ running.
 - Whose servant have I been judging?
 - Where does "fully convinced in his own mind" make me uncomfortable, and why?
 
-## Lesson 36 — Whatever Is Not from Faith
+## Lesson 38 — Whatever Is Not from Faith
 
 **Romans 14:13-23**
 
@@ -1157,7 +1251,7 @@ quietly.
 - Where is my liberty costing someone else more than it gains me?
 - What am I doing this week that does not proceed from faith?
 
-## Lesson 37 — Bear with the Failings
+## Lesson 39 — Bear with the Failings
 
 **Romans 15:1-13**
 
@@ -1184,7 +1278,7 @@ worshipping together.
 
 *Romans 15:14-16:27 — the letter's own purpose, and the people who carry it.*
 
-## Lesson 38 — Paul's Errand
+## Lesson 40 — Paul's Errand
 
 **Romans 15:14-33**
 
@@ -1202,7 +1296,7 @@ worshipping together.
 
 - Do I have any ambition shaped by the gospel rather than by preference?
 
-## Lesson 39 — The Household
+## Lesson 41 — The Household
 
 **Romans 16:1-16**
 
@@ -1220,7 +1314,7 @@ worshipping together.
 
 - Would my name appear on someone's list like this? Whose would appear on mine?
 
-## Lesson 40 — The Crushing and the Doxology
+## Lesson 42 — The Crushing and the Doxology
 
 **Romans 16:17-27**
 
