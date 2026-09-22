@@ -164,6 +164,8 @@ idolatry indictment of Romans 1:21b-23 is built out of theirs.
 - **Futility as curse.** Unable to be what we were made to be, we are futile.
 - **Reduced providence.** Having rejected God, we are cursed with less of His
   provision, thrown back to some real degree on our own effort to sustain ourselves.
+- *Someone will ask why God made a world this was possible in. Do not answer it yet —
+  say it is the right question and that Lesson 21 is where the letter answers it.*
 
 **Cross-references**
 
@@ -608,11 +610,85 @@ losing either end of it.
   witness from Israel's history. The doctrine is established here, from persons;
   11:29 corroborates it on a nation.
 
+### "Foreknew" means fore-loved
+
+This is the lesson's centre of gravity, and it takes real time.
+
+- **The word is relational, not informational.** To foreknow is not to have advance
+  information about someone; it is to have set one's regard on them beforehand. The
+  object of the verb is *whom*, not *what about them* — Paul says God foreknew
+  **persons**, not facts.
+- Establish this from scripture rather than asserting it. Romans 11:2 is the decisive
+  in-house witness: God has not rejected His people **whom He foreknew** — plainly
+  covenant love, not advance information, in this very letter.
+- Then the reframing the study is built on: **before the foundation of the world, God
+  looked across every person He could possibly have made — every world He might have
+  created — and relationally knew and loved *us*.** Not an idealised version of us.
+  Us: helpless, and in our sins.
+- **Therefore He created the exact world required for those particular people to
+  exist.** The world is the way it is because we are in it, and He wanted us.
+
+### What this does to the order of the decrees
+
+Worth drawing out slowly, because it re-orders something people may have been taught
+differently.
+
+- The familiar ordering runs: decree to permit the fall, then decree to save the elect
+  out of the fallen mass. Election operates on people who are already, so to speak, on
+  the board.
+- This reading runs: **decree that the elect exist, then decree to save them.** Love
+  for these specific persons is first, and creation is the means by which the beloved
+  come to be at all.
+- So the hardest question in the study gets an answer here. *Did God create evil, and
+  why?* **Because He loved us, and so decreed to create us — even though we were
+  evil.** Our existence was not worth less to Him than a world without sin was worth.
+- Note for the teacher: this is a supralapsarian instinct, and it is worth owning the
+  label rather than being handed it. The usual supralapsarian ground is the display of
+  God's glory; here the ground is His love for these persons. Both can stand together
+  — say so before someone sets them against each other.
+
+**Be ready for two objections.** Neither sinks the reading, but both will come:
+
+- *How can God love "us" before we exist?* The answer is that the persons are
+  determinate to Him before they are actual to us. This is why the language is
+  personal — *whom* He foreknew — and it is the same assumption Jeremiah 1:5 and Psalm
+  139:16 already make.
+- *Does this make evil necessary?* On this reading, the history that produced us is
+  the history He chose in order to have us. Do not soften that into evil being an
+  accident He worked around; say instead that He judged us worth it, and that Romans
+  8:18 has already said the coming glory outweighs the cost.
+
+**Cross-references**
+
+For the relational sense of *knowing*:
+
+- **Romans 11:2** — His people whom He foreknew. Same letter, unmistakably covenantal.
+- **Amos 3:2** — you only have I known of all the families of the earth. Knowledge as
+  election, not as information; God knew about the other families.
+- **Jeremiah 1:5** — before I formed you in the womb I knew you. Knowledge preceding
+  existence, of a person.
+- **Genesis 18:19** — I have known him, that he may command his children after him.
+- **Matthew 7:23** — I never knew you. The negative case, and it settles the sense:
+  Christ is not confessing ignorance of facts.
+- **2 Timothy 2:19** — the Lord knows those who are His.
+- **Galatians 4:9** and **1 Corinthians 8:3** — known *by* God as the thing that
+  actually matters.
+
+For love as the ground, before the foundation of the world:
+
+- **Ephesians 1:4-5** — chosen in Him before the foundation of the world, and **in
+  love** He predestined us. The affection is written into the text, not inferred.
+- **Deuteronomy 7:7-8** — not because you were more numerous, but because the LORD
+  loves you. Election grounded in love and in nothing about the loved.
+- **Psalm 139:13-16** — formed, and the days written before there were any of them.
+
 **Reflection**
 
 - Where do I read futility as permanent when Paul reads it as temporary?
 - Does "all things" include the thing I am currently carrying?
 - If no link in the chain is mine to hold, what am I actually afraid of losing?
+- He knew me as I actually am — helpless, in my sin — and made a world so that I
+  could exist. What does that do to the version of myself I present to Him?
 
 ## Lesson 22 — Nothing Separates
 
@@ -711,11 +787,21 @@ define, applied to persons.
   objection in the room, and it is the Genesis 3 grasp reappearing as theology: the
   demand to hold God to *our* definition of just.
 - Vessels of mercy prepared for glory, called from Jews and Gentiles both.
+- **Cash out Lesson 21 here.** This is where "did God create evil, and why?" comes due,
+  and the answer was laid down at the golden chain: He foreknew — fore-loved — these
+  persons as they actually would be, and decreed their existence anyway. The world is
+  as it is because we are in it and He wanted us.
+- **But let Paul have his own answer too.** 9:22-23 grounds the arrangement in making
+  known the riches of His glory on vessels of mercy. Love for these persons and the
+  display of His glory are the same answer from two directions; a lesson that offers
+  only the warmer half will be ambushed by 9:22 in the room.
 
 **Reflection**
 
 - When I object here, am I objecting as a creature or as a rival?
 - Can I distinguish "I do not understand this" from "I do not accept His right"?
+- Does knowing He made this world so that *I* could exist change how the potter
+  reads?
 
 ## Lesson 25 — The Stumbling Stone
 
