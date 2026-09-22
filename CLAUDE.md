@@ -29,7 +29,7 @@ no fixed schema, on purpose.
 | `notes/context/research/` | Investigations: evidence weighed, scholars cited |
 | `notes/context/doctrine/` | Settled positions, organised for use |
 | `studies/<name>/` | One study: `study.json`, `overview.md`, `sections/`, `assets/` |
-| `studies/<name>/sections/<key>/` | One section: its own `overview.md` plus `NN-<key>.md` lessons |
+| `studies/<name>/sections/NN-<key>/` | One section: its own `overview.md` plus `NN-<key>.md` lessons |
 | `site/` | Authored templates, CSS and JS shared by every study |
 | `docs/` | **Build output.** GitHub Pages serves it. Never hand-edit |
 | `docs/specs/` | Design specs |
@@ -91,9 +91,20 @@ A lesson file, exactly:
 order; `## Cross-references` is optional and sits before Reflection. No other `##`
 headings. `###` opens a group inside a section. Nothing sits outside a section.
 
+**Teacher notes never go in a lesson file.** The study is published for
+self-directed use, so anything meant only for whoever is preparing - objections to
+expect, debates to sidestep, background that should not be taught as the lesson -
+lives in a sibling `NN-<key>.teacher.md`, recorded as the lesson's `teacher` field
+in `study.json`. That file uses a title, a reference, then `###` groups. Keeping
+them in separate files makes the segregation structural: the learner build never
+opens a teacher file, so no rendering mistake can leak one. `parse_lesson` rejects
+a lesson that tries to carry a `## Teacher notes` section, and the suite checks
+every lesson in the repo.
+
 **Identity is the surrogate `id` in `study.json`, and it never changes.** Order
-lives in the JSON; sequence within a section lives in the filename. Renumbering a
-section therefore touches only the filenames on disk and their `file` values - no
+lives in the JSON; sequence lives in the names on disk - `NN-<key>/` for sections,
+`NN-<key>.md` for lessons - mirrored by the `dir` and `file` fields. Renumbering
+therefore touches only those names and their `dir`/`file` values; no
 cross-reference moves, because references are by `id`. Ids are never reused;
 `nextId` is the counter.
 

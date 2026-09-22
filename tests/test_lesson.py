@@ -2,7 +2,12 @@ import pathlib
 
 import pytest
 
-from study.lesson import LessonFormatError, parse_lesson
+from study.lesson import (
+    SECTION_ORDER,
+    LessonFormatError,
+    parse_lesson,
+    parse_teacher_notes,
+)
 
 MINIMAL = """# The Fall
 
@@ -138,7 +143,7 @@ def test_cross_references_are_optional():
 LESSONS = sorted(
     p
     for p in pathlib.Path("studies/romans/sections").rglob("*.md")
-    if p.name != "overview.md"
+    if p.name != "overview.md" and not p.name.endswith(".teacher.md")
 )
 
 
@@ -152,4 +157,54 @@ def test_every_lesson_in_the_study_parses(path):
 
     assert lesson["title"]
     assert lesson["reference"].startswith("Romans ")
-    assert set(lesson["sections"]) <= {"Aim", "Content", "Cross-references", "Reflection"}
+    assert set(lesson["sections"]) <= set(SECTION_ORDER)
+
+
+def test_a_lesson_may_not_carry_teacher_notes():
+    # Segregation is structural: teacher material lives in its own file so the
+    # learner build cannot leak it.
+    text = MINIMAL + "\n## Teacher notes\n\n- Someone will ask about the potter.\n"
+
+    with pytest.raises(LessonFormatError, match="Teacher notes"):
+        parse_lesson(text)
+
+
+TEACHER_NOTES = """# The Golden Chain - teacher notes
+
+**Romans 8:29-30**
+
+Preparation, not lesson content.
+
+### If someone raises the order of the decrees
+
+- Both standard positions are framed impersonally.
+"""
+
+
+def test_teacher_notes_parse_into_groups():
+    notes = parse_teacher_notes(TEACHER_NOTES)
+
+    assert notes["title"] == "The Golden Chain - teacher notes"
+    assert notes["reference"] == "Romans 8:29-30"
+    assert [g["heading"] for g in notes["groups"]] == [
+        None,
+        "If someone raises the order of the decrees",
+    ]
+
+
+def test_teacher_notes_reject_lesson_level_headings():
+    with pytest.raises(LessonFormatError, match="###"):
+        parse_teacher_notes(TEACHER_NOTES + "\n## Content\n\n- no\n")
+
+
+TEACHER_FILES = sorted(pathlib.Path("studies/romans/sections").rglob("*.teacher.md"))
+
+
+@pytest.mark.parametrize("path", TEACHER_FILES, ids=lambda p: p.name)
+def test_every_teacher_file_parses(path):
+    assert parse_teacher_notes(path.read_text(encoding="utf-8"))["groups"]
+
+
+@pytest.mark.parametrize("path", TEACHER_FILES, ids=lambda p: p.name)
+def test_every_teacher_file_belongs_to_a_lesson(path):
+    assert path.with_suffix("").with_suffix(".md").exists()

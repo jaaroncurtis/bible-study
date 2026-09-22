@@ -5,6 +5,7 @@
   "sections": [
     {
       "key": "indictment",
+      "dir": "01-indictment",
       "title": "The Accession and the Indictment",
       "overview": "overview.md",
       "lessons": [
@@ -75,6 +76,7 @@
     },
     {
       "key": "purchase",
+      "dir": "02-purchase",
       "title": "The Purchase",
       "overview": "overview.md",
       "lessons": [
@@ -132,6 +134,7 @@
     },
     {
       "key": "reign",
+      "dir": "03-reign",
       "title": "The New Reign",
       "overview": "overview.md",
       "lessons": [
@@ -221,7 +224,8 @@
           "links": [
             22,
             31
-          ]
+          ],
+          "teacher": "10-golden-chain.teacher.md"
         },
         {
           "id": 24,
@@ -235,6 +239,7 @@
     },
     {
       "key": "faithfulness",
+      "dir": "04-faithfulness",
       "title": "The Faithfulness of God",
       "overview": "overview.md",
       "lessons": [
@@ -308,6 +313,7 @@
     },
     {
       "key": "ethics",
+      "dir": "05-ethics",
       "title": "Owned People at Work",
       "overview": "overview.md",
       "lessons": [
@@ -385,6 +391,7 @@
     },
     {
       "key": "errand",
+      "dir": "06-errand",
       "title": "The Errand and the Household",
       "overview": "overview.md",
       "lessons": [

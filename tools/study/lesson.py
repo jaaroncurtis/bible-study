@@ -15,6 +15,13 @@ merely hoped for:
 
 Sections must appear in that order, at most once each. Aim, Content and
 Reflection are required; Cross-references is optional.
+
+Teacher notes are NOT part of a lesson file. The study is published for
+self-directed use, so material meant only for whoever is preparing lives in a
+sibling ``<lesson>.teacher.md`` and is parsed by ``parse_teacher_notes``. Keeping
+them in separate files makes the segregation structural: the learner build never
+opens a teacher file, so no rendering mistake can leak one. A lesson file that
+tries to carry a Teacher notes section is rejected.
 """
 
 import re
@@ -160,3 +167,51 @@ def parse_lesson(text):
             raise LessonFormatError(f"missing required section {required!r}")
 
     return {"title": title, "reference": reference, "sections": sections}
+
+
+def parse_teacher_notes(text):
+    """Parse a ``<lesson>.teacher.md`` file.
+
+    Looser than a lesson: a title, a reference, then free ``###`` groups. These are
+    preparation notes, never published to the learner-facing study.
+    """
+    lines = text.splitlines()
+    if not lines or not lines[0].startswith("# "):
+        raise LessonFormatError("first line must be the title, '# <Title>'")
+    title = lines[0][2:].strip()
+
+    body = lines[1:]
+    reference = None
+    for index, line in enumerate(body):
+        if not line.strip():
+            continue
+        match = re.fullmatch(r"\*\*(.+)\*\*", line.strip())
+        if match is None:
+            raise LessonFormatError("the reference must follow the title")
+        reference = match.group(1).strip()
+        body = body[index + 1 :]
+        break
+    if reference is None:
+        raise LessonFormatError("no reference line found after the title")
+
+    groups, heading, buffer = [], None, []
+
+    def close():
+        group = _group(heading, buffer, "Teacher notes")
+        if group["paragraphs"] or group["items"] or group["heading"]:
+            groups.append(group)
+        buffer.clear()
+
+    for line in body:
+        if line.startswith("## "):
+            raise LessonFormatError(
+                f"teacher notes use '###' groups, not '##': {line.strip()!r}"
+            )
+        if line.startswith("### "):
+            close()
+            heading = line[4:].strip()
+            continue
+        buffer.append(line)
+    close()
+
+    return {"title": title, "reference": reference, "groups": groups}
