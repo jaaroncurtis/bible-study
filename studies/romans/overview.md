@@ -1,12 +1,17 @@
 # Romans: Study Pacing
 
-Forty-two lessons through the letter, sequenced for teaching rather than for reading.
-`outline.md` maps what Paul is *arguing*; this maps what we *do*, week by week.
+Forty-two lessons through the letter. `outline.md` maps what Paul is *arguing*; this
+maps the work, lesson by lesson.
+
+**This is a study you do on your own.** Read, think, sit with it, and write down what
+you find. The reflection questions are not comprehension checks — they are where the
+study actually happens, and they are worth more time than the content above them.
+Keep a journal as you go. If you come together with others to talk it over at the
+end, you will have something to bring.
 
 Every lesson carries an **aim** in one sentence, the **content** to work through, and
-**reflection** that turns it on the person in the room. The balance shifts as the
-letter does — chapters 1-11 carry more content than reflection, chapters 12-16 invert
-that.
+**reflection** that turns it on you. The balance shifts as the letter does —
+chapters 1-11 carry more content than reflection, chapters 12-16 invert that.
 
 ## Method: Romans is the spine, not the boundary
 
@@ -34,8 +39,8 @@ Put plainly for today: **the unregenerate visible church versus the world.** Tha
 the pairing an American Christian needs, because it reproduces the experience a
 first-century Roman reader actually had. Paul spends chapter 1 cataloguing the
 world's corruption while the religious reader nods along — and then 2:1 turns the
-indictment on the one nodding. A congregation that reads chapter 1 as being about the
-culture and chapter 2 as being about them has read Romans correctly.
+indictment on the one nodding. If you read chapter 1 as being about the culture and
+chapter 2 as being about yourself, you have read Romans correctly.
 
 **This reading stops at the end of chapter 4.** When chapters 9-11 arrive, *Israel*
 means national, ethnic Israel and God's covenant faithfulness to that people. Do not

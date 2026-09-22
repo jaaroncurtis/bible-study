@@ -9,9 +9,10 @@ reads chapter 1 as being about somebody else.
 
 ## Content
 
-- **Spring the trap deliberately.** Chapter 1 was a catalogue of the world's
-  corruption, and the room has been agreeing with it for two lessons. 2:1 is aimed at
-  the agreeing. Teach it that way: let people notice they were nodding.
+- **Notice that you have been agreeing.** Chapter 1 was a catalogue of the world's
+  corruption, and you have spent two lessons nodding along with it. 2:1 is aimed at
+  the nodding. Before going further, go back and remember how it felt to read chapter
+  1 — that feeling is the thing Paul is about to indict.
 - The turn — the one passing judgment condemns himself, because he does the same
   things. Not similar things. The same.
 - God's kindness meant to lead to repentance, not to be read as a verdict already

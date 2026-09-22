@@ -4,10 +4,11 @@
 
 ## Aim
 
-Put the study's governing words on the table, and let people notice what
-those words are already doing in their thinking.
+Put the study's governing words on the table, and notice what those words are
+already doing in your thinking.
 
-Deliberately open-ended. We are not settling anything this week.
+Deliberately open-ended. Nothing is being settled here. Sit with the questions
+rather than answering them quickly.
 
 ## Content
 

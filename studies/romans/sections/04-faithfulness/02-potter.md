@@ -12,9 +12,9 @@ define, applied to persons.
 - Is there injustice on God's part? Paul's answer is a denial, not an explanation.
 - Mercy and hardening; Pharaoh raised up for a purpose.
 - "Who are you, O man, to answer back to God?" — the potter and the clay.
-- This is the royal prerogative at its sharpest. The objection in the text is the
-  objection in the room, and it is the Genesis 3 grasp reappearing as theology: the
-  demand to hold God to *our* definition of just.
+- This is the royal prerogative at its sharpest. The objection in the text is
+  probably your objection too, and it is the Genesis 3 grasp reappearing as theology:
+  the demand to hold God to *our* definition of just.
 - Vessels of mercy prepared for glory, called from Jews and Gentiles both.
 - **Cash out [The Golden Chain](lesson:23) here.** This is where "did God create evil, and why?" comes due,
   and the answer was laid down at the golden chain: He foreknew — fore-loved — these
@@ -27,8 +27,8 @@ define, applied to persons.
   glory.
 - Romans 5:8 is the demonstration stated outright — God shows His love toward us in
   that while we were still sinners, Christ died. That showing **is** a display of the
-  riches of His glory. Do not let the room hear "love" and "glory" as a warm answer
-  and a severe one that have to be balanced. There is one answer.
+  riches of His glory. Do not hear "love" and "glory" as a warm answer and a severe
+  one that have to be balanced against each other. There is one answer.
 
 ## Reflection
 

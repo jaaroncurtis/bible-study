@@ -25,8 +25,9 @@ idolatry indictment of Romans 1:21b-23 is built out of theirs.
 - **Futility as curse.** Unable to be what we were made to be, we are futile.
 - **Reduced providence.** Having rejected God, we are cursed with less of His
   provision, thrown back to some real degree on our own effort to sustain ourselves.
-- *Someone will ask why God made a world this was possible in. Do not answer it yet —
-  say it is the right question and that [The Golden Chain](lesson:23) is where the letter answers it.*
+- *You will want to ask why God made a world in which this was possible. Hold the
+  question — it is the right one, and [The Golden Chain](lesson:23) is where the
+  letter answers it. Write it down now and come back to it.*
 
 ## Cross-references
 

@@ -23,9 +23,9 @@
 > Hold the difference precisely. We are **not** saying Israel is a code word for the
 > church. We are saying that a real, chosen, covenanted people, most of whom did not
 > believe, is history's clearest demonstration of how God has always worked — and
-> that the same distinction runs through any congregation reading this letter. The
+> that the same distinction runs through any church, and through any reader. The
 > first reading replaces Israel; this one learns from her.
 >
-> Say the change out loud when Part Four opens. Six lessons have trained the room to
-> hear "Jew" as "us"; without deliberate untraining they will carry the cipher in and
-> misread the hardest section of the letter.
+> Make the change consciously. Six lessons have trained you to hear "Jew" as "us",
+> and carrying that habit into these chapters will misread the hardest section of the
+> letter.

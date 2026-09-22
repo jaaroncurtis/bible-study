@@ -14,6 +14,12 @@ Bible studies, the notes they draw on, and the tooling that feeds both.
 - **`studies/<study-name>/`** is one study, rendered to a PDF and to an
   interactive page on GitHub Pages.
 
+**A study is written for one person working alone.** Read, think, sit with it,
+journal. The reflection questions are where the study actually happens. Groups may
+meet afterwards to compare notes, but the lesson never assumes a room: no "say this
+out loud", no "let the group notice", no second-person-plural. Anything that only
+makes sense with other people present belongs in teacher notes.
+
 There is deliberately **no coupling between them**. A study does not reference or
 transclude a note; study prose is written by hand. Do not add a note-id
 reference system without a reason that has actually come up.

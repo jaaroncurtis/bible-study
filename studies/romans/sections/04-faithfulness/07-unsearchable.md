@@ -15,16 +15,16 @@ resolution.
 - **This is not where perseverance is taught; it is where it is corroborated.** The
   doctrine was laid down in [The Golden Chain](lesson:23) from 8:29-30, stated of individuals. Here the
   same faithfulness shows up worked out on a nation over centuries — a second witness,
-  from history, to the character already established. Teach it as supporting evidence,
-  not as the proof-text, and the immediate referent stays what it is.
+  from history, to the character already established. Take it as supporting evidence
+  rather than as the proof-text, and the immediate referent stays what it is.
 - **Hold the apparent contradiction and resolve it, do not dodge it.** Branches were
   broken off in [Do Not Boast](lesson:30); here the calling is irrevocable. Both are in the same
   chapter. They cohere only on the distinction 9:6 established: the branches broken
   off were in the visible community, while the calling that cannot be revoked is the
   effectual call of God to His own. Israel is the worked example of exactly this —
   a covenant people, most of whom did not believe, and a remnant God never lost.
-- Carry [The Golden Chain](lesson:23) back in deliberately so the room sees which passage is carrying the
-  doctrine and which is illustrating it.
+- Read [The Golden Chain](lesson:23) again alongside this, so it is clear which
+  passage carries the doctrine and which illustrates it.
 - God consigning all to disobedience that He may have mercy on all.
 - The doxology: the depth of His riches and wisdom, His unsearchable judgments.
 - "Who has known the mind of the Lord?" — the royal prerogative confessed rather than

@@ -44,7 +44,8 @@
           "file": "04-judge-in-the-dock.md",
           "title": "The Judge in the Dock",
           "reference": "Romans 2:1-16",
-          "links": []
+          "links": [],
+          "teacher": "04-judge-in-the-dock.teacher.md"
         },
         {
           "id": 5,
@@ -242,6 +243,7 @@
       "dir": "04-faithfulness",
       "title": "The Faithfulness of God",
       "overview": "overview.md",
+      "teacher": "overview.teacher.md",
       "lessons": [
         {
           "id": 25,

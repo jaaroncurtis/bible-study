@@ -4,8 +4,8 @@
 
 ## Aim
 
-Teach perseverance, and what it means that God foreknew — which is that He loved
-us, as we actually were, before there was a world for us to be in.
+Perseverance, and what it means that God foreknew — which is that He loved us, as we
+actually were, before there was a world for us to be in.
 
 ## Content
 
@@ -14,9 +14,9 @@ us, as we actually were, before there was a world for us to be in.
   at one end arrives at the other, and glorified stands in the past tense as though it
   were already done. Nothing in the chain is contributed by the one being carried
   through it, which is precisely why it holds.
-- Say plainly that this is the ground, and flag that [Unsearchable](lesson:31) will
-  bring a second witness from Israel's history. The doctrine is established here, from
-  persons; 11:29 corroborates it on a nation.
+- This is the ground. [Unsearchable](lesson:31) will bring a second witness from
+  Israel's history; the doctrine is established here, from persons, and 11:29
+  corroborates it on a nation.
 - This is also the answer to the question [All Things Work Together](lesson:22) left
   standing: 8:28 can promise what it promises because of who is holding the chain.
 
@@ -34,8 +34,8 @@ This is the lesson's centre of gravity, and it takes real time.
 
 ### He loved us when we were evil
 
-Three sentences carry the whole lesson. Say them slowly, and say them about the
-people in the room.
+Three sentences carry the whole lesson. Read them slowly, and read them about
+yourself.
 
 - **He knew us, and He loved us, when we were evil.** Not a cleaned-up version of us,
   not who we might become, not us on our best day. Us — helpless, and in our sin. The
@@ -45,11 +45,11 @@ people in the room.
   persons, known and wanted by name before there was anything at all.
 - **He made the world we live in — even though we were evil.** He wanted us, and this
   is the world in which we exist. He was not willing to have a world without us in it.
-- So when the room asks the hardest question in the study — *did God create evil, and
-  why?* — the answer is a person's answer, not a system's. **He loved us, and we were
-  evil, and He made us anyway.** Our existence was not worth less to Him than a world
-  without sin would have been.
-- Let that land before moving on. Everything else in the chain is what He did about it.
+- So the hardest question in the study — *did God create evil, and why?* — gets a
+  person's answer rather than a system's. **He loved us, and we were evil, and He made
+  us anyway.** Our existence was not worth less to Him than a world without sin would
+  have been.
+- Stop here before going on. Everything else in the chain is what He did about it.
 
 ## Cross-references
 
