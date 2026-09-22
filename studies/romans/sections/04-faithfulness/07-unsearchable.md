@@ -32,6 +32,26 @@ resolution.
   people home. That is the visible and the invisible church worked out on a nation.
 - Read [The Golden Chain](lesson:23) again alongside this. 8:29-30 is the promise;
   Israel is the evidence that God keeps that kind of promise.
+
+### From the example to the believer
+
+- **What the verse means and what Paul uses it for are not the same thing, and both
+  matter.** 11:29 is said of Israel. But Paul does not put it here as a forecast; he
+  puts it here as an argument. If it only predicts Israel's future, chapter 11 stops
+  talking to the Gentile believers in Rome it was written to. The example is there to
+  be applied.
+- **Applied to the believer, it is the effectual call.** "Called" in 8:30 is not an
+  invitation that might be refused; it is the call that actually brings a person to
+  Christ, the one that stands between predestined and justified in the chain. Everyone
+  God calls in that sense, He justifies and glorifies. What He has begun by calling
+  you, He does not take back.
+- **The call is His, not yours.** The assurance does not rest on how firmly you
+  answered, but on who called. A calling you could lose would be a calling you had
+  to keep, and nothing in the chain is kept by the one being carried.
+- **And it is not a promise about anyone who once professed.** Profession is visible;
+  the effectual call is not. Israel shows both at once: branches that were in the tree
+  and fell away, and a calling that never lapsed. The same is true inside the visible
+  church.
 - God consigning all to disobedience that He may have mercy on all.
 - The doxology: the depth of His riches and wisdom, His unsearchable judgments.
 - "Who has known the mind of the Lord?" — the royal prerogative confessed rather than
@@ -52,8 +72,24 @@ resolution.
   long Israel remains a people before God.
 - **Zechariah 12:10** — the people looking on the One they pierced, and mourning.
 
+### For the call applied to the believer
+
+- **Philippians 1:6** — the good work He began, He will bring to completion. The same
+  logic as 11:29, said to a church.
+- **1 Thessalonians 5:23-24** — the one who calls you is faithful, and He will do it.
+  The call carries its own completion.
+- **John 6:37-39** — all the Father gives come, and none is lost. Coming is the call
+  answered; keeping is the Son's work.
+- **John 10:27-29** — no one snatches them out of the Father's hand.
+- **1 Corinthians 1:8-9** — God is faithful, by whom you were called; He sustains you
+  to the end.
+- **1 John 2:19** — they went out from us because they were not of us. The visible
+  church losing members it never actually had.
+
 ## Reflection
 
 - Can I let a doctrine end in worship rather than in a settled position?
+- If the calling is irrevocable, what does that change about how I hold my own
+  standing — and about how I pray for someone who has walked away?
 - God kept faith with a people who did not keep faith with Him. What does that tell me
   about the One who holds the chain in 8:29-30?

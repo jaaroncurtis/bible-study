@@ -48,6 +48,10 @@ Reformed" view: the church inherits most of the promises, but God still has a pl
 for national Israel. Romans 11:26 is read as a future turning of ethnic Israel as a
 people, after the fullness of the Gentiles. 11:28-29 is said of the nation, and it
 stands as an *example* of perseverance, never its proof-text (8:29-30 teaches it).
+Interpretation and application are deliberately not collapsed: 11:29 *means* the
+nation, but Paul *uses* it as argument, so studies apply the example to the
+believer through the effectual call (Philippians 1:6 and kin). Without that
+application chapter 11 becomes a forecast and drops out of the letter's argument.
 Write studies consistent with this; do not name or label the view inside a study.
 
 A study is an ordered list of sections. A "section" is whatever that study needs -

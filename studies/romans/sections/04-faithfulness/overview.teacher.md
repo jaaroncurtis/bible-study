@@ -25,7 +25,10 @@ self-directed study.
   faith. 11:29 is said of the nation: the people who are enemies as regards the
   gospel are the same people who are beloved for the fathers' sake (11:28). It is
   not a promise about any individual who once professed. Perseverance for persons
-  rests on 8:29-30.
+  rests on 8:29-30. The lesson does apply 11:29 to the believer, through the
+  effectual call, so keep the line between meaning and application visible: the
+  verse is about Israel, the application is to those God has actually called, and
+  profession alone is neither.
 - **Someone will collapse Israel into the church.** The cost is concrete, and it is
   worth naming out loud: Paul's grief in 9:1-3 turns theatrical, 11:1 stops being a
   real question, and the olive tree has no natural branches to break off.
