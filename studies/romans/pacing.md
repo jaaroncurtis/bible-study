@@ -643,9 +643,14 @@ differently.
   why?* **Because He loved us, and so decreed to create us — even though we were
   evil.** Our existence was not worth less to Him than a world without sin was worth.
 - Note for the teacher: this is a supralapsarian instinct, and it is worth owning the
-  label rather than being handed it. The usual supralapsarian ground is the display of
-  God's glory; here the ground is His love for these persons. Both can stand together
-  — say so before someone sets them against each other.
+  label rather than being handed it. The usual statement of it grounds everything in
+  the display of God's glory, and someone may hear this reading as substituting love
+  for that. It does not. **His love is one of the riches His glory consists of.** To
+  display the riches of His glory *is*, among other things, to demonstrate love toward
+  sinners; Romans 5:8 says so, and Exodus 33:18-19 settles it — Moses asks to see
+  God's glory and God answers by making His goodness pass by and proclaiming Himself
+  merciful, gracious and abounding in steadfast love. Glory is the category; love is
+  part of what is in it.
 
 **Be ready for two objections.** Neither sinks the reading, but both will come:
 
@@ -681,6 +686,20 @@ For love as the ground, before the foundation of the world:
 - **Deuteronomy 7:7-8** — not because you were more numerous, but because the LORD
   loves you. Election grounded in love and in nothing about the loved.
 - **Psalm 139:13-16** — formed, and the days written before there were any of them.
+
+For love as a constituent of glory, not an alternative to it:
+
+- **Exodus 33:18-19** and **Exodus 34:6-7** — Moses asks to be shown God's glory, and
+  God answers with His goodness, His name, and mercy, grace and steadfast love. The
+  clearest statement in scripture that glory includes love, and it comes as God's own
+  definition of the term.
+- **Romans 5:8** — He demonstrates His love toward us in that while we were still
+  sinners Christ died for us. The demonstration itself is the display.
+- **Ephesians 1:6** — to the praise of His **glorious grace**. The two words are
+  fused, not balanced.
+- **Ephesians 2:4-7** — rich in mercy, because of the great love with which He loved
+  us, so that He might show the immeasurable riches of His grace. Riches shown, and
+  what is shown is kindness toward us.
 
 **Reflection**
 
@@ -791,10 +810,15 @@ define, applied to persons.
   and the answer was laid down at the golden chain: He foreknew — fore-loved — these
   persons as they actually would be, and decreed their existence anyway. The world is
   as it is because we are in it and He wanted us.
-- **But let Paul have his own answer too.** 9:22-23 grounds the arrangement in making
-  known the riches of His glory on vessels of mercy. Love for these persons and the
-  display of His glory are the same answer from two directions; a lesson that offers
-  only the warmer half will be ambushed by 9:22 in the room.
+- **And 9:22-23 is not a second answer — it is the same one.** Paul grounds the
+  arrangement in making known **the riches of His glory on vessels of mercy**. His
+  love is not an alternative to His glory; it is among the riches being displayed.
+  Note the phrase itself: vessels *of mercy*, prepared for *glory*. The mercy is the
+  glory.
+- Romans 5:8 is the demonstration stated outright — God shows His love toward us in
+  that while we were still sinners, Christ died. That showing **is** a display of the
+  riches of His glory. Do not let the room hear "love" and "glory" as a warm answer
+  and a severe one that have to be balanced. There is one answer.
 
 **Reflection**
 
