@@ -56,14 +56,18 @@ Setup from a fresh clone: `python -m venv .venv` then
 - **Specs and plans are markdown files in this repo**, under `docs/specs/`. Do not
   publish them as hosted artifacts. This overrides the global preference for
   artifacts.
-- **Never commit scripture text.** The cache is gitignored because most
+- **Never commit scripture in bulk.** The cache is gitignored because most
   translations are copyrighted. Test fixtures stay minimal for the same reason -
-  the ESV fixture is a three-verse excerpt, not a chapter.
-- **The published site embeds no scripture.** References link out to BibleGateway
-  instead. Crossway requires written permission for commentary and biblical
-  reference works even under its 500-verse limit, and a study with exposition is
-  plausibly commentary. See `docs/specs/2026-09-21-notes-and-studies-design.md`
-  before proposing embedded verse text.
+  the ESV fixture is a three-verse excerpt, not a chapter. Short phrases quoted
+  inside study prose are ordinary citation and are the author's call; whole
+  verses, passages or systematic verse text are not.
+- **The published site embeds no scripture.** The renderer never pulls verse text
+  into rendered output; references link out to BibleGateway instead. Crossway
+  requires written permission for commentary and biblical reference works even
+  under its 500-verse limit, and a study with exposition is plausibly commentary.
+  See `docs/specs/2026-09-21-notes-and-studies-design.md` before proposing
+  systematic embedded verse text. This governs *generated* text - it does not stop
+  the author quoting a phrase in their own prose.
 - **Never license this repo under Creative Commons.** Crossway's terms prohibit
   quoting ESV text in any CC-licensed publication.
 - **Scraping is paced.** BibleGateway asks for a 15 second crawl delay and the
