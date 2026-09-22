@@ -599,13 +599,20 @@ losing either end of it.
   timeline with an end.
 - Creation groaning, we groaning, the Spirit interceding.
 - All things working together for good, for those called according to purpose.
-- Foreknew, predestined, called, justified, glorified — the chain with no dropped
-  links.
+- **Foreknew, predestined, called, justified, glorified — this is where the study
+  teaches perseverance.** The chain has no dropped links: the same company that enters
+  at one end arrives at the other, and glorified stands in the past tense as though it
+  were already done. Nothing in the chain is contributed by the one being carried
+  through it, which is precisely why it holds.
+- Say plainly that this is the ground, and flag that Lesson 29 will bring a second
+  witness from Israel's history. The doctrine is established here, from persons;
+  11:29 corroborates it on a nation.
 
 **Reflection**
 
 - Where do I read futility as permanent when Paul reads it as temporary?
 - Does "all things" include the thing I am currently carrying?
+- If no link in the chain is mine to hold, what am I actually afraid of losing?
 
 ## Lesson 22 — Nothing Separates
 
@@ -814,19 +821,20 @@ resolution.
 
 - The partial hardening, until the fullness of the Gentiles comes in.
 - **The gifts and the calling of God are irrevocable** — the section's load-bearing
-  claim, and the study's clearest statement of **perseverance**. What God's call
-  establishes, God does not revoke. He does not begin a work and abandon it, and the
-  security of the called does not rest on the called.
+  claim. What God's call establishes, God does not revoke.
+- **This is not where perseverance is taught; it is where it is corroborated.** The
+  doctrine was laid down in Lesson 21 from 8:29-30, stated of individuals. Here the
+  same faithfulness shows up worked out on a nation over centuries — a second witness,
+  from history, to the character already established. Teach it as supporting evidence,
+  not as the proof-text, and the immediate referent stays what it is.
 - **Hold the apparent contradiction and resolve it, do not dodge it.** Branches were
   broken off in Lesson 28; here the calling is irrevocable. Both are in the same
   chapter. They cohere only on the distinction 9:6 established: the branches broken
   off were in the visible community, while the calling that cannot be revoked is the
   effectual call of God to His own. Israel is the worked example of exactly this —
   a covenant people, most of whom did not believe, and a remnant God never lost.
-- Carry Lesson 21 back in deliberately: foreknew, predestined, called, justified,
-  glorified is the same doctrine stated of individuals, with no dropped links. 8:29-30
-  is the stronger proof-text for personal perseverance; 11:29 shows the same
-  faithfulness worked out on a nation over centuries, where it can be watched.
+- Carry Lesson 21 back in deliberately so the room sees which passage is carrying the
+  doctrine and which is illustrating it.
 - God consigning all to disobedience that He may have mercy on all.
 - The doxology: the depth of His riches and wisdom, His unsearchable judgments.
 - "Who has known the mind of the Lord?" — the royal prerogative confessed rather than
