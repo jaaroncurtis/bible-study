@@ -5,7 +5,12 @@ Bible studies, the notes they draw on, and the tooling that feeds both.
 ## Notes and studies are different things
 
 - **`notes/`** is a thinking library: plain markdown on theology, read by a human
-  and drawn on when designing a study. Nothing reads it mechanically.
+  and drawn on when designing a study. Nothing reads it mechanically. It is split
+  by what kind of document each note is:
+  - `notes/context/research/` - investigations. Survey evidence, weigh scholars,
+    show their reasoning, carry citations.
+  - `notes/context/doctrine/` - settled positions. Assert and organise a
+    conclusion for later use rather than investigating it.
 - **`studies/<study-name>/`** is one study, rendered to a PDF and to an
   interactive page on GitHub Pages.
 
@@ -21,7 +26,8 @@ no fixed schema, on purpose.
 
 | Path | What |
 |---|---|
-| `notes/` | Thinking library, plain markdown. Not consumed by any tool |
+| `notes/context/research/` | Investigations: evidence weighed, scholars cited |
+| `notes/context/doctrine/` | Settled positions, organised for use |
 | `studies/<name>/` | One study: `study.toml`, `sections/*.md`, `assets/` |
 | `site/` | Authored templates, CSS and JS shared by every study |
 | `docs/` | **Build output.** GitHub Pages serves it. Never hand-edit |
@@ -69,6 +75,10 @@ Setup from a fresh clone: `python -m venv .venv` then
   the browser (IndexedDB), and later in Firestore.
 - **Source files stay ASCII.** Windows tooling here has mangled UTF-8 source
   before; put non-ASCII in data, not in code.
+- **Note filenames are kebab-case and name the argument, not the title.** A note's
+  own heading is often vague ("a comprehensive framework") or names only one
+  subsection. Name the file so someone browsing the folder knows what it claims
+  without opening it.
 
 For how to drive the BibleGateway CLI, see the `bible-gateway` skill.
 Current design: `docs/specs/2026-09-21-notes-and-studies-design.md`.
