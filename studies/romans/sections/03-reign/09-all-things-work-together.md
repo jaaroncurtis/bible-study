@@ -9,10 +9,15 @@ of faith is tested against real life.
 
 ## Content
 
-- **This verse is *fiducia* in a single sentence.** The context note defines saving
-  faith's third element as the feedback loop between total dependence on God's
-  provision and joyful submission to His Lordship. Romans 8:28 demands both at once,
-  and it falls apart if either is dropped.
+- **This verse is *fiducia* in a single sentence.** In [The Faith That Receives](lesson:11)
+  faith was taken apart into three elements: *notitia*, knowing what God has said;
+  *assensus*, judging it true; and *fiducia*, resting your life on it. *Fiducia* is not
+  a single act but a loop. You depend on Christ entirely — for rescue, for provision,
+  for every next breath — and you submit to Him entirely, as Lord over what you want
+  and where you go. Each drives the other: you submit because you know you are wholly
+  dependent, and you depend because the One you have submitted to is the only true
+  God. Romans 8:28 demands both halves at once, and it falls apart if either is
+  dropped.
 - **The dependence half.** We do not make things work together — the subject of the
   verb is God. Nothing here is a promise that we will engineer good outcomes, or even
   that we will be able to trace how He did.
@@ -20,7 +25,7 @@ of faith is tested against real life.
   promise while reserving the right to define the good is to take the royal
   prerogative back in the very moment we most need Him to hold it. This is [Honor Him as God](lesson:2)
   arriving where it costs something.
-- **Both traps from the context note appear right here.** The prosperity reading keeps
+- **Two opposite errors both break the verse.** The prosperity reading keeps
   dependence and drops submission: it dictates terms to the throne and quietly
   redefines "good" as the outcome I picked. The over-spiritualising reading keeps
   submission and drops dependence: it confines God's good to the soul and leaves the

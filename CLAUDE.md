@@ -24,6 +24,25 @@ There is deliberately **no coupling between them**. A study does not reference o
 transclude a note; study prose is written by hand. Do not add a note-id
 reference system without a reason that has actually come up.
 
+**Every study stands alone.** Notes are where doctrine is worked out; a study is
+where it is *presented*, at whatever depth that study needs. So a study never
+mentions the notes at all - no "the context note says", no "as the saving-faith
+note argues", no pointer into `notes/`. If a study needs an idea from a note, it
+states the idea in full, in its own words, as though the note did not exist. This
+applies to lessons, overviews and teacher notes alike, in every study.
+
+**"The study" means exactly the files `study.json` references** - the study
+overview, section overviews, lessons and teacher notes. Anything else in a study
+folder is meta-study: design aids such as `outline.md` that direct how the study is
+built. Meta-study files are working documents and are exempt from the study rules;
+they may cite notes freely. The test suite applies the rules to the referenced files
+only.
+
+**Instructions stay, addressed to the reader.** "Read these slowly", "write the
+question down and come back to it", "stop here before going on" are all good.
+What goes is the room: an instruction that only makes sense with other people
+present moves to teacher notes.
+
 A study is an ordered list of sections. A "section" is whatever that study needs -
 a chapter of the Westminster Confession, a passage of Romans, a topic. There is
 no fixed schema, on purpose.

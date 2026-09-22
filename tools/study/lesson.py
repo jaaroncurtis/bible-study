@@ -34,7 +34,7 @@ REQUIRED_SECTIONS = ["Aim", "Content", "Reflection"]
 # references are a list and the note is shared.
 _CROSSREF = re.compile(
     r"^(?P<refs>\*\*[^*]+\*\*(?:\s*(?:and|,)\s*\*\*[^*]+\*\*)*)"
-    r"\s*[—-]\s*(?P<note>.+)$",
+    r"\s*[\u2014-]\s*(?P<note>.+)$",
     re.S,
 )
 
