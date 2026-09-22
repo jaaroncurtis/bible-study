@@ -642,15 +642,41 @@ differently.
 - So the hardest question in the study gets an answer here. *Did God create evil, and
   why?* **Because He loved us, and so decreed to create us — even though we were
   evil.** Our existence was not worth less to Him than a world without sin was worth.
-- Note for the teacher: this is a supralapsarian instinct, and it is worth owning the
-  label rather than being handed it. The usual statement of it grounds everything in
-  the display of God's glory, and someone may hear this reading as substituting love
-  for that. It does not. **His love is one of the riches His glory consists of.** To
-  display the riches of His glory *is*, among other things, to demonstrate love toward
-  sinners; Romans 5:8 says so, and Exodus 33:18-19 settles it — Moses asks to see
-  God's glory and God answers by making His goodness pass by and proclaiming Himself
-  merciful, gracious and abounding in steadfast love. Glory is the category; love is
-  part of what is in it.
+- Note for the teacher: someone may hear this as substituting love for glory as the
+  ground of election. It does not. **His love is one of the riches His glory consists
+  of.** To display the riches of His glory *is*, among other things, to demonstrate
+  love toward sinners; Romans 5:8 says so, and Exodus 33:18-19 settles it — Moses asks
+  to see God's glory and God answers by making His goodness pass by and proclaiming
+  Himself merciful, gracious and abounding in steadfast love. Glory is the category;
+  love is part of what is in it.
+
+### If someone names the lapsarian question
+
+They will, and the answer is not to pick a side.
+
+- **Both options are framed impersonally.** Supralapsarian and infralapsarian
+  alike order *decrees* — items in a plan, arranged on a logical line, as though the
+  question were the sequence of entries in a ledger. The debate was guarding something
+  real, the priority of grace and the sovereignty of God, and it is not a foolish
+  question. But its frame abstracts the decree away from the One decreeing.
+- **Paul supplies his own ordering in this very passage, and it is personal from the
+  first word.** He does not begin with a decree about a category. He begins with
+  *whom He foreknew* — persons, and a relational verb. The golden chain is an account
+  of what God does with people, not of the order in which He resolved propositions.
+- So the study follows **Paul's** ordering rather than the scholastic one. Where that
+  lands relative to either lapsarian scheme is a secondary question, and this study
+  does not need to settle it. The relational reading fits the chain better than either
+  ordering does, whichever one it ends up leaning toward.
+- **The deeper reason is who God is.** A Triune God is relational in His own being —
+  Father, Son and Spirit in love before anything was made. John 17:24 has the Father
+  loving the Son *before the foundation of the world*, so that phrase is not an empty
+  point at the start of a timeline; it is already full of relationship. An account of
+  election that drops the relational aspect is not merely cold, it describes a
+  lesser God than the one who is there.
+- 1 Peter 1:2 is worth putting in front of the room: election stated with all three
+  persons in a single breath — the foreknowledge of the Father, the sanctification of
+  the Spirit, obedience to Jesus Christ. Scripture's own way of stating election is
+  Trinitarian and personal.
 
 **Be ready for two objections.** Neither sinks the reading, but both will come:
 
@@ -700,6 +726,18 @@ For love as a constituent of glory, not an alternative to it:
 - **Ephesians 2:4-7** — rich in mercy, because of the great love with which He loved
   us, so that He might show the immeasurable riches of His grace. Riches shown, and
   what is shown is kindness toward us.
+
+For election as relational and Trinitarian rather than decretal:
+
+- **John 17:24** — you loved me before the foundation of the world. The strongest
+  single answer to an impersonal account of the decrees: love is already in progress
+  before anything is made.
+- **John 17:6** and **John 17:9** — those whom You gave Me out of the world. Election
+  described as a gift from Father to Son, between persons.
+- **1 Peter 1:2** — the foreknowledge of the Father, the sanctification of the Spirit,
+  obedience to Jesus Christ. All three persons in one statement of election.
+- **2 Thessalonians 2:13** — chosen from the beginning for salvation through
+  sanctification by the Spirit and belief in the truth.
 
 **Reflection**
 
