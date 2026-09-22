@@ -24,7 +24,8 @@
           "title": "Honor Him as God",
           "reference": "Romans 1:18-21a",
           "links": [
-            3
+            3,
+            20
           ]
         },
         {
@@ -87,7 +88,9 @@
           "file": "01-righteousness-apart-from-law.md",
           "title": "Righteousness Apart from Law",
           "reference": "Romans 3:21-26",
-          "links": []
+          "links": [
+            20
+          ]
         },
         {
           "id": 9,
@@ -121,7 +124,9 @@
           "file": "05-peace-and-standing.md",
           "title": "Peace and Standing",
           "reference": "Romans 5:1-11",
-          "links": []
+          "links": [
+            20
+          ]
         },
         {
           "id": 13,
@@ -193,7 +198,10 @@
           "file": "07-from-slave-to-son-to-heir.md",
           "title": "From Slave to Son to Heir",
           "reference": "Romans 8:12-17",
-          "links": []
+          "links": [
+            2,
+            10
+          ]
         },
         {
           "id": 21,
@@ -202,7 +210,8 @@
           "title": "Groaning in Hope",
           "reference": "Romans 8:18-27",
           "links": [
-            3
+            3,
+            20
           ]
         },
         {
@@ -224,6 +233,8 @@
           "title": "The Golden Chain",
           "reference": "Romans 8:29-30",
           "links": [
+            2,
+            20,
             22,
             31
           ],
@@ -252,7 +263,9 @@
           "file": "01-word-has-not-failed.md",
           "title": "The Word Has Not Failed",
           "reference": "Romans 9:1-13",
-          "links": []
+          "links": [
+            20
+          ]
         },
         {
           "id": 26,

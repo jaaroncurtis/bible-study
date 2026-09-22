@@ -8,7 +8,9 @@ Show what justification actually produces, including in suffering.
 
 ## Content
 
-- Peace with God, and access into this standing in which we stand.
+- Peace with God, and access into this standing in which we stand. Access is a
+  son's privilege before it is anything else; [From Slave to Son to Heir](lesson:20)
+  names the standing outright.
 - Rejoicing in suffering; the chain from endurance to character to hope.
 - God's love poured into our hearts by the Spirit.
 - The argument from the greater to the lesser: if while enemies we were reconciled by

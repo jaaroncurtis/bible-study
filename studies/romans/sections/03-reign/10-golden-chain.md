@@ -19,6 +19,10 @@ actually were, before there was a world for us to be in.
   corroborates it on a nation.
 - This is also the answer to the question [All Things Work Together](lesson:22) left
   standing: 8:28 can promise what it promises because of who is holding the chain.
+- **Predestined to be conformed to the image of His Son, the firstborn among many
+  brothers.** The chain ends in a family. What fore-love sets out to produce is sons
+  who look like the Son: the ought-ness of [Honor Him as God](lesson:2), given back
+  as [From Slave to Son to Heir](lesson:20) describes.
 
 ### Foreknew means fore-loved
 
@@ -83,7 +87,8 @@ yourself.
 ### For love set on us before the world existed
 
 - **Ephesians 1:4-5** — chosen in Him before the foundation of the world, and **in
-  love** He predestined us. The affection is written into the text, not inferred.
+  love** He predestined us for adoption. The affection is written into the text, not
+  inferred, and so is the family it aims at.
 - **John 17:24** — you loved me before the foundation of the world. Love already in
   progress before anything was made.
 - **John 17:6** and **John 17:9** — those whom You gave Me out of the world. A gift

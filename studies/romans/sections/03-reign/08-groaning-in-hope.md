@@ -15,6 +15,10 @@ that the groaning is evidence rather than contradiction.
   first and insists on the second.
 - Creation groaning, and we groaning with it. The groan is not a failure of faith; it
   is the ache of people who know what was lost and what is promised.
+- We groan as we wait eagerly for **adoption as sons, the redemption of our
+  bodies** (8:23). Adopted already, and still waiting for the adoption: the verdict
+  is in, and the family likeness is not finished. See
+  [From Slave to Son to Heir](lesson:20).
 - Hope that is seen is not hope. Waiting with patience as the posture of the saved.
 - The Spirit helps us in our weakness, because we do not know what to pray for as we
   ought — dependence reaching all the way down into our praying.

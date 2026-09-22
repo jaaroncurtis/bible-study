@@ -9,7 +9,10 @@ Feel the weight of the problem before reaching for the answer.
 ## Content
 
 - Paul's unceasing anguish; his willingness to be accursed for his kinsmen.
-- The privileges that belonged to Israel, listed without irony.
+- The privileges that belonged to Israel, listed without irony. First on the list is
+  **the adoption** (9:4): Israel called God's son long before Romans 8 (Exodus
+  4:22). The sonship of [From Slave to Son to Heir](lesson:20) was Israel's before it
+  was ours.
 - **9:6 is the hinge of the whole section.** Not all who are descended from Israel
   belong to Israel. Paul's answer to "has the word failed?" is that it never promised
   what the objection assumes — the promise, not the bloodline, defines the line.

@@ -57,7 +57,9 @@ Five commitments run the length of the study. They are stated here once so each
 lesson can lean on them without re-explaining:
 
 - **Righteousness is ought-ness.** We are righteous when we are what we were created
-  to be. Unrighteousness is deviation from that.
+  to be. Unrighteousness is deviation from that. The letter carries this to
+  adoption: righteousness credited in chapter 3, and the abandoned post given back
+  in chapter 8 as a son's standing.
 - **God holds the royal prerogative** — the exclusive right to define good and evil.
   The tree stands in for that right.
 - **Man was made a vassal king** — genuinely ruling, under total allegiance to the

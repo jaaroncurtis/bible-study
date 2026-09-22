@@ -14,6 +14,9 @@ Turn the corner of the letter, and see how God stays just while justifying.
 - Propitiation, and God's passing over former sins — the problem of how He can acquit
   without ceasing to be just.
 - Just and the justifier: both halves held at once.
+- The verdict is not the end of the story. The acquitted are not only released;
+  chapter 8 will bring them into the family ([From Slave to Son to Heir](lesson:20)).
+  Justification is the legal ground that adoption stands on.
 
 ## Reflection
 
