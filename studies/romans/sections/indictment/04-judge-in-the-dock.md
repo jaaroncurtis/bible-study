@@ -1,0 +1,29 @@
+# The Judge in the Dock
+
+**Romans 2:1-16**
+
+## Aim
+
+Close the escape hatch the previous lesson opens, where the religious person
+reads chapter 1 as being about somebody else.
+
+## Content
+
+- **Spring the trap deliberately.** Chapter 1 was a catalogue of the world's
+  corruption, and the room has been agreeing with it for two lessons. 2:1 is aimed at
+  the agreeing. Teach it that way: let people notice they were nodding.
+- The turn — the one passing judgment condemns himself, because he does the same
+  things. Not similar things. The same.
+- God's kindness meant to lead to repentance, not to be read as a verdict already
+  returned in our favour.
+- Judgment according to works, without partiality. The insider's standing buys no
+  leniency; if anything the standard he holds raises the bar.
+- The Gentile who does by nature what the law requires: the outsider sometimes keeps
+  what the insider only teaches. Conscience as evidence that ought-ness is written
+  in, not invented.
+
+## Reflection
+
+- Which sins do I find it easy to condemn, and what does the ease tell me?
+- Do I read God's patience with me as approval?
+- Where is someone outside the church quietly doing what I only talk about?

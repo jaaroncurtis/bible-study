@@ -15,7 +15,7 @@ dependencies = [
 
 [tool.setuptools]
 package-dir = { "" = "tools" }
-packages = ["bg"]
+packages = ["bg", "study"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

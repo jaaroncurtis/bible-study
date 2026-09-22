@@ -28,7 +28,8 @@ no fixed schema, on purpose.
 |---|---|
 | `notes/context/research/` | Investigations: evidence weighed, scholars cited |
 | `notes/context/doctrine/` | Settled positions, organised for use |
-| `studies/<name>/` | One study: `study.toml`, `sections/*.md`, `assets/` |
+| `studies/<name>/` | One study: `study.json`, `overview.md`, `sections/`, `assets/` |
+| `studies/<name>/sections/<key>/` | One section: its own `overview.md` plus `NN-<key>.md` lessons |
 | `site/` | Authored templates, CSS and JS shared by every study |
 | `docs/` | **Build output.** GitHub Pages serves it. Never hand-edit |
 | `docs/specs/` | Design specs |
@@ -50,6 +51,54 @@ Use the repo virtualenv for everything:
 
 Setup from a fresh clone: `python -m venv .venv` then
 `.venv/Scripts/python -m pip install -r requirements.txt -e .`
+
+## How a study is laid out
+
+`study.json` holds the ordering and the identity of everything. The markdown holds
+the prose. The long-term direction is that the JSON becomes the source and the
+markdown becomes generated output, so **the markdown must stay deterministically
+parseable** - `tools/study/lesson.py` enforces the grammar and every lesson in the
+repo is checked against it by the test suite.
+
+A lesson file, exactly:
+
+```markdown
+# <Title>
+
+**<Reference>**
+
+## Aim
+
+<prose>
+
+## Content
+
+### <optional subheading>
+
+- bullets, or prose, or both
+
+## Cross-references          (optional section)
+
+- **<Reference>** - <what it is there to do>
+- **<Ref A>** and **<Ref B>** - one note may cover several references
+
+## Reflection
+
+- questions
+```
+
+`## Aim`, `## Content` and `## Reflection` are required and must appear in that
+order; `## Cross-references` is optional and sits before Reflection. No other `##`
+headings. `###` opens a group inside a section. Nothing sits outside a section.
+
+**Identity is the surrogate `id` in `study.json`, and it never changes.** Order
+lives in the JSON; sequence within a section lives in the filename. Renumbering a
+section therefore touches only the filenames on disk and their `file` values - no
+cross-reference moves, because references are by `id`. Ids are never reused;
+`nextId` is the counter.
+
+Lesson-to-lesson links are written in prose as `[Some Title](lesson:23)`. The
+title is display only; the id carries the reference.
 
 ## Rules that are easy to get wrong
 

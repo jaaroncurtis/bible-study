@@ -1,0 +1,418 @@
+{
+  "title": "Romans",
+  "overview": "overview.md",
+  "nextId": 43,
+  "sections": [
+    {
+      "key": "indictment",
+      "title": "The Accession and the Indictment",
+      "overview": "overview.md",
+      "lessons": [
+        {
+          "id": 1,
+          "key": "doulos-and-the-gospel",
+          "file": "01-doulos-and-the-gospel.md",
+          "title": "The *Doulos* and the Gospel",
+          "reference": "Romans 1:1-17",
+          "links": []
+        },
+        {
+          "id": 2,
+          "key": "honor-him-as-god",
+          "file": "02-honor-him-as-god.md",
+          "title": "Honor Him as God",
+          "reference": "Romans 1:18-21a",
+          "links": [
+            3
+          ]
+        },
+        {
+          "id": 3,
+          "key": "fall",
+          "file": "03-fall.md",
+          "title": "The Fall",
+          "reference": "Romans 1:21b-32",
+          "links": [
+            2,
+            23
+          ]
+        },
+        {
+          "id": 4,
+          "key": "judge-in-the-dock",
+          "file": "04-judge-in-the-dock.md",
+          "title": "The Judge in the Dock",
+          "reference": "Romans 2:1-16",
+          "links": []
+        },
+        {
+          "id": 5,
+          "key": "circumcision-of-the-heart",
+          "file": "05-circumcision-of-the-heart.md",
+          "title": "Circumcision of the Heart",
+          "reference": "Romans 2:17-29",
+          "links": []
+        },
+        {
+          "id": 6,
+          "key": "does-our-failure-undo-god",
+          "file": "06-does-our-failure-undo-god.md",
+          "title": "Does Our Failure Undo God?",
+          "reference": "Romans 3:1-8",
+          "links": [
+            5
+          ]
+        },
+        {
+          "id": 7,
+          "key": "none-righteous",
+          "file": "07-none-righteous.md",
+          "title": "None Righteous",
+          "reference": "Romans 3:9-20",
+          "links": []
+        }
+      ]
+    },
+    {
+      "key": "purchase",
+      "title": "The Purchase",
+      "overview": "overview.md",
+      "lessons": [
+        {
+          "id": 8,
+          "key": "righteousness-apart-from-law",
+          "file": "01-righteousness-apart-from-law.md",
+          "title": "Righteousness Apart from Law",
+          "reference": "Romans 3:21-26",
+          "links": []
+        },
+        {
+          "id": 9,
+          "key": "boasting-excluded",
+          "file": "02-boasting-excluded.md",
+          "title": "Boasting Excluded",
+          "reference": "Romans 3:27-31",
+          "links": []
+        },
+        {
+          "id": 10,
+          "key": "abraham-credited",
+          "file": "03-abraham-credited.md",
+          "title": "Abraham Credited",
+          "reference": "Romans 4:1-12",
+          "links": [
+            5
+          ]
+        },
+        {
+          "id": 11,
+          "key": "faith-that-receives",
+          "file": "04-faith-that-receives.md",
+          "title": "The Faith That Receives",
+          "reference": "Romans 4:13-25",
+          "links": []
+        },
+        {
+          "id": 12,
+          "key": "peace-and-standing",
+          "file": "05-peace-and-standing.md",
+          "title": "Peace and Standing",
+          "reference": "Romans 5:1-11",
+          "links": []
+        },
+        {
+          "id": 13,
+          "key": "two-heads",
+          "file": "06-two-heads.md",
+          "title": "Two Heads",
+          "reference": "Romans 5:12-21",
+          "links": []
+        }
+      ]
+    },
+    {
+      "key": "reign",
+      "title": "The New Reign",
+      "overview": "overview.md",
+      "lessons": [
+        {
+          "id": 14,
+          "key": "died-to-sin",
+          "file": "01-died-to-sin.md",
+          "title": "Died to Sin",
+          "reference": "Romans 6:1-14",
+          "links": []
+        },
+        {
+          "id": 15,
+          "key": "which-master",
+          "file": "02-which-master.md",
+          "title": "Which Master?",
+          "reference": "Romans 6:15-23",
+          "links": []
+        },
+        {
+          "id": 16,
+          "key": "released-to-another",
+          "file": "03-released-to-another.md",
+          "title": "Released to Another",
+          "reference": "Romans 7:1-6",
+          "links": []
+        },
+        {
+          "id": 17,
+          "key": "commandment-and-the-wanting",
+          "file": "04-commandment-and-the-wanting.md",
+          "title": "The Commandment and the Wanting",
+          "reference": "Romans 7:7-13",
+          "links": []
+        },
+        {
+          "id": 18,
+          "key": "knowing-without-power",
+          "file": "05-knowing-without-power.md",
+          "title": "Knowing Without Power",
+          "reference": "Romans 7:14-25",
+          "links": []
+        },
+        {
+          "id": 19,
+          "key": "no-condemnation",
+          "file": "06-no-condemnation.md",
+          "title": "No Condemnation",
+          "reference": "Romans 8:1-11",
+          "links": []
+        },
+        {
+          "id": 20,
+          "key": "from-slave-to-son-to-heir",
+          "file": "07-from-slave-to-son-to-heir.md",
+          "title": "From Slave to Son to Heir",
+          "reference": "Romans 8:12-17",
+          "links": []
+        },
+        {
+          "id": 21,
+          "key": "groaning-in-hope",
+          "file": "08-groaning-in-hope.md",
+          "title": "Groaning in Hope",
+          "reference": "Romans 8:18-27",
+          "links": [
+            3
+          ]
+        },
+        {
+          "id": 22,
+          "key": "all-things-work-together",
+          "file": "09-all-things-work-together.md",
+          "title": "All Things Work Together",
+          "reference": "Romans 8:28",
+          "links": [
+            2,
+            26
+          ]
+        },
+        {
+          "id": 23,
+          "key": "golden-chain",
+          "file": "10-golden-chain.md",
+          "title": "The Golden Chain",
+          "reference": "Romans 8:29-30",
+          "links": [
+            22,
+            31
+          ]
+        },
+        {
+          "id": 24,
+          "key": "nothing-separates",
+          "file": "11-nothing-separates.md",
+          "title": "Nothing Separates",
+          "reference": "Romans 8:31-39",
+          "links": []
+        }
+      ]
+    },
+    {
+      "key": "faithfulness",
+      "title": "The Faithfulness of God",
+      "overview": "overview.md",
+      "lessons": [
+        {
+          "id": 25,
+          "key": "word-has-not-failed",
+          "file": "01-word-has-not-failed.md",
+          "title": "The Word Has Not Failed",
+          "reference": "Romans 9:1-13",
+          "links": []
+        },
+        {
+          "id": 26,
+          "key": "potter",
+          "file": "02-potter.md",
+          "title": "The Potter",
+          "reference": "Romans 9:14-29",
+          "links": [
+            23
+          ]
+        },
+        {
+          "id": 27,
+          "key": "stumbling-stone",
+          "file": "03-stumbling-stone.md",
+          "title": "The Stumbling Stone",
+          "reference": "Romans 9:30-10:4",
+          "links": [
+            3
+          ]
+        },
+        {
+          "id": 28,
+          "key": "confess-and-believe",
+          "file": "04-confess-and-believe.md",
+          "title": "Confess and Believe",
+          "reference": "Romans 10:5-17",
+          "links": []
+        },
+        {
+          "id": 29,
+          "key": "did-they-not-hear",
+          "file": "05-did-they-not-hear.md",
+          "title": "Did They Not Hear?",
+          "reference": "Romans 10:18-11:10",
+          "links": []
+        },
+        {
+          "id": 30,
+          "key": "do-not-boast",
+          "file": "06-do-not-boast.md",
+          "title": "Do Not Boast",
+          "reference": "Romans 11:11-24",
+          "links": [
+            31
+          ]
+        },
+        {
+          "id": 31,
+          "key": "unsearchable",
+          "file": "07-unsearchable.md",
+          "title": "Unsearchable",
+          "reference": "Romans 11:25-36",
+          "links": [
+            23,
+            26,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ethics",
+      "title": "Owned People at Work",
+      "overview": "overview.md",
+      "lessons": [
+        {
+          "id": 32,
+          "key": "living-sacrifice",
+          "file": "01-living-sacrifice.md",
+          "title": "The Living Sacrifice",
+          "reference": "Romans 12:1-2",
+          "links": [
+            2
+          ]
+        },
+        {
+          "id": 33,
+          "key": "sober-judgment",
+          "file": "02-sober-judgment.md",
+          "title": "Sober Judgment",
+          "reference": "Romans 12:3-8",
+          "links": []
+        },
+        {
+          "id": 34,
+          "key": "love-without-pretence",
+          "file": "03-love-without-pretence.md",
+          "title": "Love Without Pretence",
+          "reference": "Romans 12:9-21",
+          "links": []
+        },
+        {
+          "id": 35,
+          "key": "governing-authorities",
+          "file": "04-governing-authorities.md",
+          "title": "Governing Authorities",
+          "reference": "Romans 13:1-7",
+          "links": []
+        },
+        {
+          "id": 36,
+          "key": "love-fulfils-the-law",
+          "file": "05-love-fulfils-the-law.md",
+          "title": "Love Fulfils the Law",
+          "reference": "Romans 13:8-14",
+          "links": [
+            17
+          ]
+        },
+        {
+          "id": 37,
+          "key": "to-his-own-master-he-stands",
+          "file": "06-to-his-own-master-he-stands.md",
+          "title": "To His Own Master He Stands",
+          "reference": "Romans 14:1-12",
+          "links": []
+        },
+        {
+          "id": 38,
+          "key": "whatever-is-not-from-faith",
+          "file": "07-whatever-is-not-from-faith.md",
+          "title": "Whatever Is Not from Faith",
+          "reference": "Romans 14:13-23",
+          "links": [
+            3
+          ]
+        },
+        {
+          "id": 39,
+          "key": "bear-with-the-failings",
+          "file": "08-bear-with-the-failings.md",
+          "title": "Bear with the Failings",
+          "reference": "Romans 15:1-13",
+          "links": []
+        }
+      ]
+    },
+    {
+      "key": "errand",
+      "title": "The Errand and the Household",
+      "overview": "overview.md",
+      "lessons": [
+        {
+          "id": 40,
+          "key": "pauls-errand",
+          "file": "01-pauls-errand.md",
+          "title": "Paul's Errand",
+          "reference": "Romans 15:14-33",
+          "links": []
+        },
+        {
+          "id": 41,
+          "key": "household",
+          "file": "02-household.md",
+          "title": "The Household",
+          "reference": "Romans 16:1-16",
+          "links": []
+        },
+        {
+          "id": 42,
+          "key": "crushing-and-the-doxology",
+          "file": "03-crushing-and-the-doxology.md",
+          "title": "The Crushing and the Doxology",
+          "reference": "Romans 16:17-27",
+          "links": []
+        }
+      ]
+    }
+  ]
+}
